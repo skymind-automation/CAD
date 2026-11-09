@@ -1,0 +1,1686 @@
+{
+  "source": "buffalo.co.ke scrape (buffalo_parts.csv)",
+  "rows": 2475,
+  "unique_part_numbers": 2308,
+  "duplicate_rows": 152,
+  "conflicting_duplicates": [
+    {
+      "part_no": "VG1500040009",
+      "rows": [
+        44,
+        45
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "VG1500040009",
+      "rows": [
+        44,
+        46
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ16D444000078",
+      "rows": [
+        70,
+        71
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ712734001004",
+      "rows": [
+        101,
+        102
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ7117329003",
+      "rows": [
+        118,
+        119
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ712732001018",
+      "rows": [
+        123,
+        124
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ9925520110",
+      "rows": [
+        127,
+        128
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ9925520110",
+      "rows": [
+        127,
+        129
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ9X2558030001",
+      "rows": [
+        175,
+        176
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "810W35140-0016",
+      "rows": [
+        179,
+        180
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ712734001013",
+      "rows": [
+        195,
+        196
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "VG1092080019",
+      "rows": [
+        222,
+        224
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ2203240107",
+      "rows": [
+        227,
+        228
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "VG14150004",
+      "rows": [
+        268,
+        269
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "VG1560110210",
+      "rows": [
+        86,
+        270
+      ],
+      "fields": [
+        "name",
+        "net_weight_kg"
+      ]
+    },
+    {
+      "part_no": "VG1540059031",
+      "rows": [
+        288,
+        289
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "811W41722-6032",
+      "rows": [
+        293,
+        294
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "1.99101E+11",
+      "rows": [
+        39,
+        298
+      ],
+      "fields": [
+        "name",
+        "price",
+        "net_weight_kg"
+      ]
+    },
+    {
+      "part_no": "1.99101E+11",
+      "rows": [
+        39,
+        316
+      ],
+      "fields": [
+        "name",
+        "price",
+        "net_weight_kg"
+      ]
+    },
+    {
+      "part_no": "810W35613-0050",
+      "rows": [
+        320,
+        321
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "810W35613-0050",
+      "rows": [
+        320,
+        322
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "811W52160-6117",
+      "rows": [
+        340,
+        341
+      ],
+      "fields": [
+        "price"
+      ]
+    },
+    {
+      "part_no": "FG9704555200ST",
+      "rows": [
+        373,
+        374
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9000360101FT",
+      "rows": [
+        385,
+        386
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9000360918ST",
+      "rows": [
+        390,
+        392
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "VG1095094002ST",
+      "rows": [
+        394,
+        395
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9319313250FT",
+      "rows": [
+        423,
+        424
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9925555696FT",
+      "rows": [
+        427,
+        429
+      ],
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "part_no": "WG9925555696ST",
+      "rows": [
+        428,
+        430
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9925555696ST",
+      "rows": [
+        428,
+        431
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9925555696ST",
+      "rows": [
+        428,
+        434
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9160710522ST",
+      "rows": [
+        445,
+        448
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9000360521ST",
+      "rows": [
+        510,
+        512
+      ],
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "part_no": "WG9525760314ST",
+      "rows": [
+        608,
+        609
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "LG1613770070ST",
+      "rows": [
+        626,
+        630
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "LG1611771003FT",
+      "rows": [
+        631,
+        632
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YG1671110701FT",
+      "rows": [
+        634,
+        645
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "DOT-4",
+      "rows": [
+        673,
+        674
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ1642430219FT",
+      "rows": [
+        725,
+        726
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "FG9804231168ST",
+      "rows": [
+        769,
+        771
+      ],
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "part_no": "YG1671110706FT",
+      "rows": [
+        638,
+        886
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9761348002ST",
+      "rows": [
+        669,
+        963
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG2203250003FT",
+      "rows": [
+        941,
+        969
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9727710002FT",
+      "rows": [
+        1000,
+        1001
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9727710002ST",
+      "rows": [
+        998,
+        1003
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "FG9806590013ST",
+      "rows": [
+        1019,
+        1020
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671820027FT",
+      "rows": [
+        1026,
+        1028
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525541474ST",
+      "rows": [
+        1041,
+        1043
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525531565ST",
+      "rows": [
+        964,
+        1055
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1664115001FT",
+      "rows": [
+        1058,
+        1059
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1664115002FT",
+      "rows": [
+        1060,
+        1061
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "LG9704190692FT",
+      "rows": [
+        513,
+        1092
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "FG610Y001609+997/1ST",
+      "rows": [
+        1110,
+        1111
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "FG610Y001609+997/1ST",
+      "rows": [
+        1110,
+        1113
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "FG7112332825+998/2ST",
+      "rows": [
+        763,
+        1133
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525930126FT",
+      "rows": [
+        1168,
+        1169
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525523302+001FT",
+      "rows": [
+        1186,
+        1188
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525931500FT",
+      "rows": [
+        1204,
+        1213
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1642230105ST",
+      "rows": [
+        1218,
+        1219
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671430192ST",
+      "rows": [
+        1244,
+        1245
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "LG1611230084ST",
+      "rows": [
+        1081,
+        1258
+      ],
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "part_no": "FG1672230015ST",
+      "rows": [
+        1173,
+        1265
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "FG1672230014ST",
+      "rows": [
+        1172,
+        1266
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9925555696ST",
+      "rows": [
+        428,
+        1305
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525550501ST",
+      "rows": [
+        1310,
+        1313
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9724770015ST",
+      "rows": [
+        1327,
+        1328
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YG1671110706ST",
+      "rows": [
+        888,
+        1329
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YZ1671110730FT",
+      "rows": [
+        641,
+        1331
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "LG1613110131ST",
+      "rows": [
+        443,
+        1368
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "12VFT",
+      "rows": [
+        1374,
+        1375
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "12VFT",
+      "rows": [
+        1374,
+        1378
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "12VFT",
+      "rows": [
+        1374,
+        1379
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1646741001ST",
+      "rows": [
+        1448,
+        1449
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671430192FT",
+      "rows": [
+        1246,
+        1452
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9719530276ST",
+      "rows": [
+        1456,
+        1457
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "VG1560080300ST",
+      "rows": [
+        843,
+        1499
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525530344FT",
+      "rows": [
+        1518,
+        1520
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9531540203ST",
+      "rows": [
+        1402,
+        1527
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YZ952552000118+004FT",
+      "rows": [
+        1129,
+        1612
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YG1671110709FT",
+      "rows": [
+        528,
+        1628
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YG1671110719FT",
+      "rows": [
+        1629,
+        1640
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YZ952595000035FT",
+      "rows": [
+        1622,
+        1642
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ1771210011ST",
+      "rows": [
+        1662,
+        1663
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671230208ST",
+      "rows": [
+        1682,
+        1684
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671430155ST",
+      "rows": [
+        1687,
+        1691
+      ],
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "part_no": "WG9525930251FT",
+      "rows": [
+        1396,
+        1715
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671230503ST",
+      "rows": [
+        1743,
+        1744
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525930217FT",
+      "rows": [
+        708,
+        1754
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671720011ST",
+      "rows": [
+        1756,
+        1759
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YZ177177000007FT",
+      "rows": [
+        1767,
+        1770
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671230261ST",
+      "rows": [
+        1785,
+        1787
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525720034ST",
+      "rows": [
+        1006,
+        1789
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YG1671110725ST",
+      "rows": [
+        1646,
+        1809
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "712W63730-6021FT",
+      "rows": [
+        1763,
+        1810
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "LG1611440011ST",
+      "rows": [
+        1817,
+        1819
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525930227FT",
+      "rows": [
+        1848,
+        1850
+      ],
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "part_no": "WG1671240220FT",
+      "rows": [
+        1846,
+        1865
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671330233ST",
+      "rows": [
+        938,
+        1868
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YG1671110705FT",
+      "rows": [
+        1858,
+        1879
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525195201FT",
+      "rows": [
+        494,
+        1898
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525820141ST",
+      "rows": [
+        1917,
+        1919
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YG1671110702FT",
+      "rows": [
+        637,
+        1921
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671110113FT",
+      "rows": [
+        639,
+        1924
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671110114ST",
+      "rows": [
+        1832,
+        1925
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9000360520ST",
+      "rows": [
+        683,
+        1930
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "LG1611230101FT",
+      "rows": [
+        1948,
+        1950
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YG1671110704FT",
+      "rows": [
+        744,
+        1958
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9531541328FT",
+      "rows": [
+        1983,
+        1984
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9100760102FT",
+      "rows": [
+        606,
+        1994
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1771770035FT",
+      "rows": [
+        1769,
+        2003
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671710001FT",
+      "rows": [
+        1270,
+        2008
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "VG61000070005ST",
+      "rows": [
+        2026,
+        2030
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "VG1095088010FT",
+      "rows": [
+        1326,
+        2047
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9625550001ST",
+      "rows": [
+        1318,
+        2064
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "SL50FT",
+      "rows": [
+        2078,
+        2079
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YG1671110702FT",
+      "rows": [
+        637,
+        2081
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671240287FT",
+      "rows": [
+        1123,
+        2087
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525950541FT",
+      "rows": [
+        1710,
+        2119
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YZ167182100252FT",
+      "rows": [
+        806,
+        2132
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ9410311062FT",
+      "rows": [
+        1563,
+        2140
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "LG9704530011FT",
+      "rows": [
+        2158,
+        2160
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG2210100109FT",
+      "rows": [
+        2174,
+        2179
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG2210100007FT",
+      "rows": [
+        2172,
+        2181
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG2210100059FT",
+      "rows": [
+        2180,
+        2182
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "3502N02-105WFT",
+      "rows": [
+        1183,
+        2197
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9925810002FT",
+      "rows": [
+        802,
+        2217
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9925810001FT",
+      "rows": [
+        2216,
+        2218
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9925810001FT",
+      "rows": [
+        2216,
+        2219
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "FG9806590013ST",
+      "rows": [
+        1019,
+        2230
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671440312ST",
+      "rows": [
+        491,
+        2256
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "VG1560090001FT",
+      "rows": [
+        885,
+        2280
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671240277ST",
+      "rows": [
+        2283,
+        2285
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "811W25101-6013ST",
+      "rows": [
+        1395,
+        2311
+      ],
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "part_no": "YG1671110720FT",
+      "rows": [
+        2310,
+        2331
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YZ952595000036FT",
+      "rows": [
+        1964,
+        2336
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YZ952595000036FT",
+      "rows": [
+        1964,
+        2338
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YG1671110726ST",
+      "rows": [
+        2308,
+        2340
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "AZ1771210012ST",
+      "rows": [
+        2354,
+        2355
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525720028ST",
+      "rows": [
+        1180,
+        2382
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9716720002ST",
+      "rows": [
+        2402,
+        2404
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG9525930252FT",
+      "rows": [
+        2406,
+        2407
+      ],
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "part_no": "WG1671210060ST",
+      "rows": [
+        1194,
+        2421
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YZ952595000036ST",
+      "rows": [
+        2337,
+        2427
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671240288ST",
+      "rows": [
+        1124,
+        2440
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "WG1671720012ST",
+      "rows": [
+        2447,
+        2450
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YZ177177000008ST",
+      "rows": [
+        2307,
+        2458
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    },
+    {
+      "part_no": "YZ177177000008ST",
+      "rows": [
+        2307,
+        2459
+      ],
+      "fields": [
+        "name",
+        "price"
+      ]
+    }
+  ],
+  "conflict_count": 147,
+  "rejected": [
+    {
+      "row": 155,
+      "reason": "missing part number or name"
+    },
+    {
+      "row": 297,
+      "reason": "missing part number or name"
+    },
+    {
+      "row": 304,
+      "reason": "missing part number or name"
+    },
+    {
+      "row": 403,
+      "part_no": "35*47*6*13 FT",
+      "reason": "unsupported characters in part number"
+    },
+    {
+      "row": 715,
+      "part_no": "NX:LZZPCLSB8RJ368780FT",
+      "reason": "unsupported characters in part number"
+    },
+    {
+      "row": 779,
+      "part_no": "300*10*35FT",
+      "reason": "unsupported characters in part number"
+    },
+    {
+      "row": 970,
+      "part_no": "M22*226",
+      "reason": "unsupported characters in part number"
+    },
+    {
+      "row": 1462,
+      "part_no": "YH167B\u20131000002ST",
+      "reason": "unsupported characters in part number"
+    },
+    {
+      "row": 1463,
+      "part_no": "NX:LZZPCLSB8RJ368780FT",
+      "reason": "unsupported characters in part number"
+    },
+    {
+      "row": 1474,
+      "part_no": "220*245*30FT",
+      "reason": "unsupported characters in part number"
+    },
+    {
+      "row": 1496,
+      "part_no": "35*47*6",
+      "reason": "unsupported characters in part number"
+    },
+    {
+      "row": 1500,
+      "part_no": "35*52*7FT",
+      "reason": "unsupported characters in part number"
+    },
+    {
+      "row": 1995,
+      "part_no": "1C-16*1.5FT",
+      "reason": "unsupported characters in part number"
+    },
+    {
+      "row": 2057,
+      "part_no": "80*105*8",
+      "reason": "unsupported characters in part number"
+    },
+    {
+      "row": 2154,
+      "part_no": "WG2229020003FT,WG2229020001FT",
+      "reason": "unsupported characters in part number"
+    }
+  ],
+  "rejected_count": 15,
+  "flag_counts": {
+    "placeholder_weight": 6,
+    "placeholder_package": 3,
+    "part_number_scientific_notation": 3,
+    "no_weight": 1985
+  },
+  "currencies": {
+    "KES": 2308
+  },
+  "basis": "Values are copied from the supplier listing. Package dimensions describe packaging, not part geometry; weights and prices are not verified."
+}

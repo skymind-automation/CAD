@@ -1,0 +1,21 @@
+{
+  "project_id": "8515055e2b5e4f9dab8c729ff20b9e07",
+  "assemblies": [
+    {
+      "name": "WD615 engine \u00b7 cylinder 1 TDC",
+      "status": "built",
+      "components": 197,
+      "mass_kg": 999.28,
+      "interferences": 0,
+      "elapsed_s": 134.5
+    },
+    {
+      "name": "WD615 engine \u00b7 90\u00b0 crank",
+      "status": "built",
+      "components": 197,
+      "mass_kg": 999.28,
+      "interferences": 0,
+      "elapsed_s": 169.0
+    }
+  ]
+}

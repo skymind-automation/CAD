@@ -1,0 +1,8 @@
+# Regenerable or private local state
+scratch/logs/
+scratch/breps/
+scratch/*.brep
+__pycache__/
+*.pyc
+# Exported STEP assemblies are ~34 MB each; regenerate with tools/build_engine.py
+outputs/*.step

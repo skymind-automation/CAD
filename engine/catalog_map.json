@@ -1,0 +1,275 @@
+{
+  "source": "data/source/buffalo_parts.csv (buffalo.co.ke listing, scraped by the user)",
+  "rule": "Only part numbers present in the imported catalog are linked. Unlinked parts are modelled but have no catalog match; non-modelled lines are listed for completeness with quantities per engine.",
+  "libraries": {
+    "piston": [
+      "VG1560037011A",
+      "Piston"
+    ],
+    "piston_pin": [
+      "VG1560030013",
+      "Pin Piston"
+    ],
+    "cylinder_liner": [
+      "VG1540010006",
+      "Cylinder Liner"
+    ],
+    "head_gasket": [
+      "VG1500040065",
+      "Cylinder head gasket"
+    ],
+    "head_bolt": [
+      "VG1500040023",
+      "Main bolt of cylinder head"
+    ],
+    "cap_bolt": [
+      "VG14010217",
+      "Bearing Bolt Main"
+    ],
+    "main_shell": [
+      "VG1500010046",
+      "Main Bearing Shell (modelled as one ring per journal)"
+    ],
+    "rod_shell": [
+      "VG1560037033",
+      "Connecting rod lower bearing shell (pair modelled as one ring)"
+    ],
+    "connecting_rod": [
+      "61500030009GFT",
+      "Connecting rod assembly"
+    ],
+    "camshaft": [
+      "VG1500050097A",
+      "Assembly Camshaft"
+    ],
+    "intake_valve": [
+      "VG1560051001",
+      "Valve Intake"
+    ],
+    "exhaust_valve": [
+      "VG1560050041",
+      "Valve Exhaust"
+    ],
+    "tappet": [
+      "VG1500050032",
+      "Valve Tappet"
+    ],
+    "rocker_pedestal": [
+      "VG14050119",
+      "Seat Valve Rocker Arm"
+    ],
+    "cam_gear": [
+      "VG14050053",
+      "Gear Camshaft Timing"
+    ],
+    "idler_gear": [
+      "VG1560050053",
+      "Assembly Middle Gear Intermediate"
+    ],
+    "idler_axle": [
+      "VG1540059031",
+      "Shaft Middle Gear Intermediate"
+    ],
+    "injection_pump": [
+      "VG1560080022",
+      "High Pressure Fuel Pump"
+    ],
+    "injector": [
+      "VG1560080276",
+      "Assembly Fuel Injector"
+    ],
+    "pump_drive_shaft": [
+      "VG1560080300",
+      "Shaft Assembly Coupling"
+    ],
+    "fuel_filter": [
+      "VG1560080012ST",
+      "Fuel filter"
+    ],
+    "oil_filter": [
+      "VG61000070005ST",
+      "Oil filter 371HP"
+    ],
+    "oil_pump": [
+      "VG1500070048",
+      "Oil Pump 48mm Widened"
+    ],
+    "oil_cooler": [
+      "VG1540010014B",
+      "Cover Oil Cooler"
+    ],
+    "water_pump": [
+      "VG1062060351",
+      "Assembly Water Pump (EGR variant; closest listing)"
+    ],
+    "vibration_damper": [
+      "VG1540020003",
+      "Shock Absorber (vibration damper)"
+    ],
+    "flywheel_housing": [
+      "AZ1500010012FT",
+      "Flywheel housing"
+    ],
+    "turbocharger": [
+      "VG1029110055",
+      "Turbocharger Exhaust Gas"
+    ],
+    "alternator": [
+      "VG1095094002ST",
+      "28V/70A AC generator"
+    ],
+    "starter": [
+      "VG1560090001",
+      "Starter Reduction Type"
+    ],
+    "air_compressor": [
+      "VG1093130001",
+      "Twin Cylinder Water Cooled Air Compressor"
+    ],
+    "cylinder_head": [
+      "161560040058FT",
+      "Cylinder head assembly"
+    ],
+    "valve_cover": [
+      "VG14040065A",
+      "Cover Cylinder (head cover)"
+    ]
+  },
+  "per_component": {
+    "Intake rocker": [
+      "VG14050048",
+      "Valve Intake Rocker Arm"
+    ],
+    "Exhaust rocker": [
+      "VG14050049",
+      "Valve Exhaust Rocker Arm"
+    ]
+  },
+  "not_modelled": [
+    [
+      "VG1560030050",
+      "Piston ring set",
+      6
+    ],
+    [
+      "VG1560030012",
+      "Piston pin snap ring",
+      12
+    ],
+    [
+      "VG1500050001",
+      "Inner valve spring",
+      12
+    ],
+    [
+      "VG1500050002",
+      "Outer valve spring",
+      12
+    ],
+    [
+      "VG1500050109",
+      "Upper valve spring seat",
+      12
+    ],
+    [
+      "VG14050017",
+      "Lower intake valve spring seat",
+      6
+    ],
+    [
+      "VG1500040014",
+      "Lower exhaust valve spring seat",
+      6
+    ],
+    [
+      "VG1500050025",
+      "Valve lock clip",
+      24
+    ],
+    [
+      "VG1560040032",
+      "Valve stem seal",
+      12
+    ],
+    [
+      "VG1500030023",
+      "Connecting rod bolt",
+      12
+    ],
+    [
+      "VG1047010038",
+      "Front crankshaft oil seal",
+      1
+    ],
+    [
+      "VG1047010050",
+      "Rear oil seal (labyrinth)",
+      1
+    ],
+    [
+      "VG1047060001",
+      "Thermostat 80 C",
+      1
+    ],
+    [
+      "VG1500080100",
+      "Fuel transfer pump",
+      1
+    ],
+    [
+      "VG1500080174",
+      "Injection pump bracket",
+      1
+    ],
+    [
+      "VG1560080278A",
+      "High-pressure fuel pipe set",
+      1
+    ],
+    [
+      "VG1062060035",
+      "Poly-V belt",
+      1
+    ],
+    [
+      "VG1062060113",
+      "Automatic belt tensioner",
+      1
+    ],
+    [
+      "VG1062060205",
+      "Belt idler pulley",
+      1
+    ],
+    [
+      "VG1500090061",
+      "Coolant temperature sensor",
+      1
+    ],
+    [
+      "VG1095090139",
+      "Oil pressure sensor cover",
+      1
+    ],
+    [
+      "VG1560110111A",
+      "Exhaust manifold gasket",
+      6
+    ],
+    [
+      "VG1500110024A",
+      "Intake manifold gasket",
+      6
+    ],
+    [
+      "VG1500070097",
+      "Main oil gallery pressure-limiting valve",
+      1
+    ],
+    [
+      "VG1095020238ST",
+      "Flywheel ring gear (modelled as part of the flywheel)",
+      1
+    ]
+  ]
+}

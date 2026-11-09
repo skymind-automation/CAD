@@ -1,0 +1,921 @@
+{
+  "lines": [
+    {
+      "catalog_part_no": "VG1093130001",
+      "example_name": "Air compressor",
+      "kind": "housing",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "a426bec7ddec48a690505c35a0e9ace6",
+      "total_mass_kg": 4.9449223555013555,
+      "unit_mass_kg": 4.9449223555013555,
+      "catalog": {
+        "part_no": "VG1093130001",
+        "name": "Twin CylinderWater CooledAir Compressor",
+        "price": 56700.0,
+        "currency": "KES",
+        "net_weight_kg": 16.7,
+        "product_url": "https://www.buffalo.co.ke/product/twin-cylinderwater-cooledair-compressor/",
+        "flags": []
+      },
+      "line_price": 56700.0,
+      "mass_ratio_model_to_catalog": 0.29610313505996144
+    },
+    {
+      "catalog_part_no": "VG1095094002ST",
+      "example_name": "Alternator",
+      "kind": "housing",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "100f069e96e14a2589d6106d6f0433bb",
+      "total_mass_kg": 2.6319231014822324,
+      "unit_mass_kg": 2.6319231014822324,
+      "catalog": {
+        "part_no": "VG1095094002ST",
+        "name": "28V/70A AC generator",
+        "price": 3500.0,
+        "currency": "KES",
+        "net_weight_kg": null,
+        "product_url": "https://www.buffalo.co.ke/product/28v70a-ac-generator/",
+        "flags": [
+          "no_weight"
+        ]
+      },
+      "line_price": 3500.0
+    },
+    {
+      "catalog_part_no": "VG1500050097A",
+      "example_name": "Camshaft",
+      "kind": "camshaft",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "ca0dc1ec1cc24e0dbf93498ab7d5e3d6",
+      "total_mass_kg": 21.840071234789168,
+      "unit_mass_kg": 21.840071234789168,
+      "catalog": {
+        "part_no": "VG1500050097A",
+        "name": "Assembly Camshaft",
+        "price": 18300.0,
+        "currency": "KES",
+        "net_weight_kg": 11.3,
+        "product_url": "https://www.buffalo.co.ke/product/assembly-camshaft/",
+        "flags": []
+      },
+      "line_price": 18300.0,
+      "mass_ratio_model_to_catalog": 1.9327496667955015
+    },
+    {
+      "catalog_part_no": "VG14050053",
+      "example_name": "Camshaft gear",
+      "kind": "spur_gear",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "583ca61ba9fc4f6095b21a5415e3c76a",
+      "total_mass_kg": 5.541145947787659,
+      "unit_mass_kg": 5.541145947787659,
+      "catalog": {
+        "part_no": "VG14050053",
+        "name": "Gear Camshaft Timing",
+        "price": 3700.0,
+        "currency": "KES",
+        "net_weight_kg": 1.54,
+        "product_url": "https://www.buffalo.co.ke/product/gear-camshaft-timing/",
+        "flags": []
+      },
+      "line_price": 3700.0,
+      "mass_ratio_model_to_catalog": 3.598146719342636
+    },
+    {
+      "catalog_part_no": "61500030009GFT",
+      "example_name": "Connecting rod",
+      "kind": "connecting_rod",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "be9d84d5e8d04b858f9f30769b89d2ee",
+      "total_mass_kg": 21.516153537922232,
+      "unit_mass_kg": 3.5860255896537057,
+      "catalog": {
+        "part_no": "61500030009GFT",
+        "name": "Connecting rod assembly",
+        "price": 1300.0,
+        "currency": "KES",
+        "net_weight_kg": null,
+        "product_url": "https://www.buffalo.co.ke/product/connecting-rod-assembly/",
+        "flags": [
+          "no_weight"
+        ]
+      },
+      "line_price": 7800.0
+    },
+    {
+      "catalog_part_no": "VG1062060351",
+      "example_name": "Coolant pump",
+      "kind": "housing",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "93877bb85fde44ca80668705a329474a",
+      "total_mass_kg": 2.409709513340088,
+      "unit_mass_kg": 2.409709513340088,
+      "catalog": {
+        "part_no": "VG1062060351",
+        "name": "Assembly Water Pump (Prince EGRFor)",
+        "price": 20000.0,
+        "currency": "KES",
+        "net_weight_kg": 11.77,
+        "product_url": "https://www.buffalo.co.ke/product/assembly-water-pump-prince-egrfor/",
+        "flags": []
+      },
+      "line_price": 20000.0,
+      "mass_ratio_model_to_catalog": 0.20473317870349092
+    },
+    {
+      "catalog_part_no": "161560040058FT",
+      "example_name": "Cylinder head",
+      "kind": "cylinder_head",
+      "material": "cast-iron-reference",
+      "quantity": 6,
+      "revision_id": "b452908ebeb3471b815b0970bef797b0",
+      "total_mass_kg": 160.05720884031672,
+      "unit_mass_kg": 26.67620147338612,
+      "catalog": {
+        "part_no": "161560040058FT",
+        "name": "Cylinder head assembly",
+        "price": 24300.0,
+        "currency": "KES",
+        "net_weight_kg": null,
+        "product_url": "https://www.buffalo.co.ke/product/cylinder-head-assembly/",
+        "flags": [
+          "no_weight"
+        ]
+      },
+      "line_price": 145800.0
+    },
+    {
+      "catalog_part_no": "VG1540010006",
+      "example_name": "Cylinder liner",
+      "kind": "cylinder_liner",
+      "material": "cast-iron-reference",
+      "quantity": 6,
+      "revision_id": "2438a53c411042c4a78edf2c27c78552",
+      "total_mass_kg": 8.888093404571318,
+      "unit_mass_kg": 1.4813489007618863,
+      "catalog": {
+        "part_no": "VG1540010006",
+        "name": "Cylinder Liner (Refer to DrawingR61540010006)",
+        "price": 3500.0,
+        "currency": "KES",
+        "net_weight_kg": 1.47,
+        "product_url": "https://www.buffalo.co.ke/product/cylinder-liner-refer-to-drawingr61540010006/",
+        "flags": []
+      },
+      "line_price": 21000.0,
+      "mass_ratio_model_to_catalog": 1.0077203406543445
+    },
+    {
+      "catalog_part_no": "VG14050049",
+      "example_name": "Exhaust rocker",
+      "kind": "rocker_arm",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "total_mass_kg": 1.9983053514591282,
+      "unit_mass_kg": 0.3330508919098547,
+      "catalog": {
+        "part_no": "VG14050049",
+        "name": "Valve ExhaustRocker Arm",
+        "price": 650.0,
+        "currency": "KES",
+        "net_weight_kg": 0.2,
+        "product_url": "https://www.buffalo.co.ke/product/valve-exhaustrocker-arm/",
+        "flags": []
+      },
+      "line_price": 3900.0,
+      "mass_ratio_model_to_catalog": 1.6652544595492735
+    },
+    {
+      "catalog_part_no": "VG1560050041",
+      "example_name": "Exhaust valve",
+      "kind": "valve",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "cce6385b6877478ab533a6fbfbb9d89d",
+      "total_mass_kg": 1.065270130657595,
+      "unit_mass_kg": 0.17754502177626583,
+      "catalog": {
+        "part_no": "VG1560050041",
+        "name": "Valve Exhaust",
+        "price": 4400.0,
+        "currency": "KES",
+        "net_weight_kg": 0.595,
+        "product_url": "https://www.buffalo.co.ke/product/valve-exhaust/",
+        "flags": []
+      },
+      "line_price": 26400.0,
+      "mass_ratio_model_to_catalog": 0.2983949945819594
+    },
+    {
+      "catalog_part_no": "AZ1500010012FT",
+      "example_name": "Flywheel housing",
+      "kind": "bell_housing",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "c318759124eb4125b303e2b3fb19b0ea",
+      "total_mass_kg": 15.621003983297557,
+      "unit_mass_kg": 15.621003983297557,
+      "catalog": {
+        "part_no": "AZ1500010012FT",
+        "name": "Flywheel housing AZ1500010012",
+        "price": 9900.0,
+        "currency": "KES",
+        "net_weight_kg": null,
+        "product_url": "https://www.buffalo.co.ke/product/flywheel-housing-az1500010012/",
+        "flags": [
+          "no_weight"
+        ]
+      },
+      "line_price": 9900.0
+    },
+    {
+      "catalog_part_no": "VG1560080012ST",
+      "example_name": "Fuel filter",
+      "kind": "canister",
+      "material": "steel-reference",
+      "quantity": 2,
+      "revision_id": "c28bd8ed1d7e47949edae5c9aef4ebaa",
+      "total_mass_kg": 3.4783237949204278,
+      "unit_mass_kg": 1.7391618974602139,
+      "catalog": {
+        "part_no": "VG1560080012ST",
+        "name": "FUEL FILTER",
+        "price": 1700.0,
+        "currency": "KES",
+        "net_weight_kg": null,
+        "product_url": "https://www.buffalo.co.ke/product/fuel-filter/",
+        "flags": [
+          "no_weight"
+        ]
+      },
+      "line_price": 3400.0
+    },
+    {
+      "catalog_part_no": "VG1500040023",
+      "example_name": "Head bolt 1.1",
+      "kind": "fastener",
+      "material": "steel-reference",
+      "quantity": 24,
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "total_mass_kg": 8.190297473993438,
+      "unit_mass_kg": 0.3412623947497266,
+      "catalog": {
+        "part_no": "VG1500040023",
+        "name": "Cover Bolt Cylinder Main",
+        "price": 300.0,
+        "currency": "KES",
+        "net_weight_kg": 0.3,
+        "product_url": "https://www.buffalo.co.ke/product/cover-bolt-cylinder-main/",
+        "flags": []
+      },
+      "line_price": 7200.0,
+      "mass_ratio_model_to_catalog": 1.137541315832422
+    },
+    {
+      "catalog_part_no": "VG1500040065",
+      "example_name": "Head gasket",
+      "kind": "head_gasket",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "a7bdddcd849241b2bafe9cbf0244d0cb",
+      "total_mass_kg": 1.2368832478678204,
+      "unit_mass_kg": 0.20614720797797007,
+      "catalog": {
+        "part_no": "VG1500040065",
+        "name": "Cover Cylinder Gasket",
+        "price": 1100.0,
+        "currency": "KES",
+        "net_weight_kg": 0.115,
+        "product_url": "https://www.buffalo.co.ke/product/cover-cylinder-gasket/",
+        "flags": []
+      },
+      "line_price": 6600.0,
+      "mass_ratio_model_to_catalog": 1.7925844171997396
+    },
+    {
+      "catalog_part_no": "VG1540059031",
+      "example_name": "Idler axle",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "c0507855c37247c885a3f3a1d64d2414",
+      "total_mass_kg": 0.43947906920876423,
+      "unit_mass_kg": 0.43947906920876423,
+      "catalog": {
+        "part_no": "VG1540059031",
+        "name": "Shaft Middle Gear Intermediate",
+        "price": 500.0,
+        "currency": "KES",
+        "net_weight_kg": 0.7,
+        "product_url": "https://www.buffalo.co.ke/product/shaft-middle-gear-intermediate/",
+        "flags": []
+      },
+      "line_price": 500.0,
+      "mass_ratio_model_to_catalog": 0.627827241726806
+    },
+    {
+      "catalog_part_no": "VG1560050053",
+      "example_name": "Idler gear",
+      "kind": "spur_gear",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "84939fd92dd2467592bbd1466da03498",
+      "total_mass_kg": 1.9640895276146515,
+      "unit_mass_kg": 1.9640895276146515,
+      "catalog": {
+        "part_no": "VG1560050053",
+        "name": "Assembly Middle Gear Intermediate(Refer to Drawing161560050052)",
+        "price": 3500.0,
+        "currency": "KES",
+        "net_weight_kg": 1.86,
+        "product_url": "https://www.buffalo.co.ke/product/assembly-middle-gear-intermediaterefer-to-drawing161560050052/",
+        "flags": []
+      },
+      "line_price": 3500.0,
+      "mass_ratio_model_to_catalog": 1.0559621116207802
+    },
+    {
+      "catalog_part_no": "VG1560080022",
+      "example_name": "Injection pump",
+      "kind": "injection_pump",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "301c1468d273450082c4396e11259f33",
+      "total_mass_kg": 14.150146309317906,
+      "unit_mass_kg": 14.150146309317906,
+      "catalog": {
+        "part_no": "VG1560080022",
+        "name": "High Pressure Fuel Pump DomesticBeltK-TypeGovernor",
+        "price": 149300.0,
+        "currency": "KES",
+        "net_weight_kg": 28.2,
+        "product_url": "https://www.buffalo.co.ke/product/high-pressure-fuel-pump-domesticbeltk-typegovernor/",
+        "flags": []
+      },
+      "line_price": 149300.0,
+      "mass_ratio_model_to_catalog": 0.5017782379190747
+    },
+    {
+      "catalog_part_no": "VG1560080300",
+      "example_name": "Injection pump drive shaft",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "2d663bdb0ace41a8bcaef7d1f133fb3b",
+      "total_mass_kg": 0.5966542220128861,
+      "unit_mass_kg": 0.5966542220128861,
+      "catalog": {
+        "part_no": "VG1560080300",
+        "name": "Shaft Assembly Coupling",
+        "price": 5600.0,
+        "currency": "KES",
+        "net_weight_kg": 2.34,
+        "product_url": "https://www.buffalo.co.ke/product/shaft-assembly-coupling/",
+        "flags": []
+      },
+      "line_price": 5600.0,
+      "mass_ratio_model_to_catalog": 0.25498043675764365
+    },
+    {
+      "catalog_part_no": "VG1560080276",
+      "example_name": "Injector",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "5ffc24e604a54638a3c2a0536d1c8be1",
+      "total_mass_kg": 3.119952554431758,
+      "unit_mass_kg": 0.519992092405293,
+      "catalog": {
+        "part_no": "VG1560080276",
+        "name": "Assembly Fuel Injector",
+        "price": 8500.0,
+        "currency": "KES",
+        "net_weight_kg": 0.4,
+        "product_url": "https://www.buffalo.co.ke/product/assembly-fuel-injector/",
+        "flags": []
+      },
+      "line_price": 51000.0,
+      "mass_ratio_model_to_catalog": 1.2999802310132325
+    },
+    {
+      "catalog_part_no": "VG14050048",
+      "example_name": "Intake rocker",
+      "kind": "rocker_arm",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "total_mass_kg": 1.9983053514591282,
+      "unit_mass_kg": 0.3330508919098547,
+      "catalog": {
+        "part_no": "VG14050048",
+        "name": "Valve IntakeRocker Arm",
+        "price": 550.0,
+        "currency": "KES",
+        "net_weight_kg": 0.56,
+        "product_url": "https://www.buffalo.co.ke/product/valve-intakerocker-arm/",
+        "flags": []
+      },
+      "line_price": 3300.0,
+      "mass_ratio_model_to_catalog": 0.5947337355533119
+    },
+    {
+      "catalog_part_no": "VG1500050032",
+      "example_name": "Intake tappet",
+      "kind": "tappet",
+      "material": "steel-reference",
+      "quantity": 12,
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "total_mass_kg": 2.8607342703588663,
+      "unit_mass_kg": 0.23839452252990553,
+      "catalog": {
+        "part_no": "VG1500050032",
+        "name": "Valve Tappet",
+        "price": 1500.0,
+        "currency": "KES",
+        "net_weight_kg": 0.265,
+        "product_url": "https://www.buffalo.co.ke/product/valve-tappet/",
+        "flags": []
+      },
+      "line_price": 18000.0,
+      "mass_ratio_model_to_catalog": 0.8996019718109642
+    },
+    {
+      "catalog_part_no": "VG1560051001",
+      "example_name": "Intake valve",
+      "kind": "valve",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "2d74fd663022491587002f4b55c321a9",
+      "total_mass_kg": 1.2631820644606644,
+      "unit_mass_kg": 0.2105303440767774,
+      "catalog": {
+        "part_no": "VG1560051001",
+        "name": "Valve Intake",
+        "price": 1200.0,
+        "currency": "KES",
+        "net_weight_kg": 0.575,
+        "product_url": "https://www.buffalo.co.ke/product/valve-intake/",
+        "flags": []
+      },
+      "line_price": 7200.0,
+      "mass_ratio_model_to_catalog": 0.3661397288291781
+    },
+    {
+      "catalog_part_no": "VG14010217",
+      "example_name": "Main bearing bolt 1L",
+      "kind": "fastener",
+      "material": "steel-reference",
+      "quantity": 14,
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "total_mass_kg": 5.586845745838926,
+      "unit_mass_kg": 0.39906041041706614,
+      "catalog": {
+        "part_no": "VG14010217",
+        "name": "Bearing Bolt Main",
+        "price": 400.0,
+        "currency": "KES",
+        "net_weight_kg": 0.35,
+        "product_url": "https://www.buffalo.co.ke/product/bearing-bolt-main-2/",
+        "flags": []
+      },
+      "line_price": 5600.0,
+      "mass_ratio_model_to_catalog": 1.1401726011916176
+    },
+    {
+      "catalog_part_no": "VG1500010046",
+      "example_name": "Main bearing shell",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 7,
+      "revision_id": "a1afe11c44a24535991465ecdc863c56",
+      "total_mass_kg": 1.4438816384566562,
+      "unit_mass_kg": 0.20626880549380802,
+      "catalog": {
+        "part_no": "VG1500010046",
+        "name": "Main Bearing Shell",
+        "price": 4100.0,
+        "currency": "KES",
+        "net_weight_kg": 0.33,
+        "product_url": "https://www.buffalo.co.ke/product/main-bearing-shell/",
+        "flags": []
+      },
+      "line_price": 28700.0,
+      "mass_ratio_model_to_catalog": 0.6250569863448727
+    },
+    {
+      "catalog_part_no": "VG1540010014B",
+      "example_name": "Oil cooler",
+      "kind": "housing",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "617fde14a5a64e4ea4c3c12b13578518",
+      "total_mass_kg": 6.7392,
+      "unit_mass_kg": 6.7392,
+      "catalog": {
+        "part_no": "VG1540010014B",
+        "name": "Cover Oil Cooler",
+        "price": 5500.0,
+        "currency": "KES",
+        "net_weight_kg": 1.8,
+        "product_url": "https://www.buffalo.co.ke/product/cover-oil-cooler/",
+        "flags": []
+      },
+      "line_price": 5500.0,
+      "mass_ratio_model_to_catalog": 3.744
+    },
+    {
+      "catalog_part_no": "VG61000070005ST",
+      "example_name": "Oil filter",
+      "kind": "canister",
+      "material": "steel-reference",
+      "quantity": 2,
+      "revision_id": "90edb0f30af849efb11a123e7b6c11d1",
+      "total_mass_kg": 4.8373273363311675,
+      "unit_mass_kg": 2.4186636681655838,
+      "catalog": {
+        "part_no": "VG61000070005ST",
+        "name": "OIL FILTER 371HP",
+        "price": 590.0,
+        "currency": "KES",
+        "net_weight_kg": null,
+        "product_url": "https://www.buffalo.co.ke/product/oil-filter-371hp/",
+        "flags": [
+          "no_weight"
+        ]
+      },
+      "line_price": 1180.0
+    },
+    {
+      "catalog_part_no": "VG1500070048",
+      "example_name": "Oil pump",
+      "kind": "housing",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "54755259886c4f298ce22f834ff2dd72",
+      "total_mass_kg": 6.958162805928928,
+      "unit_mass_kg": 6.958162805928928,
+      "catalog": {
+        "part_no": "VG1500070048",
+        "name": "Oil Pump 48mmWidened",
+        "price": 15000.0,
+        "currency": "KES",
+        "net_weight_kg": 11.4,
+        "product_url": "https://www.buffalo.co.ke/product/oil-pump-48mmwidened/",
+        "flags": []
+      },
+      "line_price": 15000.0,
+      "mass_ratio_model_to_catalog": 0.6103651584148182
+    },
+    {
+      "catalog_part_no": "VG1560037011A",
+      "example_name": "Piston",
+      "kind": "piston",
+      "material": "aluminum-casting-reference",
+      "quantity": 6,
+      "revision_id": "33bcc4d33b4341c78e858819cdd2f01f",
+      "total_mass_kg": 13.344298073683424,
+      "unit_mass_kg": 2.2240496789472375,
+      "catalog": {
+        "part_no": "VG1560037011A",
+        "name": "Piston",
+        "price": 5500.0,
+        "currency": "KES",
+        "net_weight_kg": 2.185,
+        "product_url": "https://www.buffalo.co.ke/product/piston/",
+        "flags": []
+      },
+      "line_price": 33000.0,
+      "mass_ratio_model_to_catalog": 1.017871706612008
+    },
+    {
+      "catalog_part_no": "VG1560030013",
+      "example_name": "Piston pin",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "6a31230e0e2444f68a6cb4f178e4c476",
+      "total_mass_kg": 7.701121317308401,
+      "unit_mass_kg": 1.2835202195514002,
+      "catalog": {
+        "part_no": "VG1560030013",
+        "name": "Pin Piston (Refer to Drawing1614 030025)",
+        "price": 1000.0,
+        "currency": "KES",
+        "net_weight_kg": 1.28,
+        "product_url": "https://www.buffalo.co.ke/product/pin-piston-refer-to-drawing1614-030025/",
+        "flags": []
+      },
+      "line_price": 6000.0,
+      "mass_ratio_model_to_catalog": 1.0027501715245313
+    },
+    {
+      "catalog_part_no": "VG14050119",
+      "example_name": "Rocker pedestal",
+      "kind": "rocker_pedestal",
+      "material": "cast-iron-reference",
+      "quantity": 6,
+      "revision_id": "068ce5b352a24c159872c459de6f6983",
+      "total_mass_kg": 2.4473711731875083,
+      "unit_mass_kg": 0.4078951955312513,
+      "catalog": {
+        "part_no": "VG14050119",
+        "name": "Seat Valve Rocker Arm",
+        "price": 1300.0,
+        "currency": "KES",
+        "net_weight_kg": 0.6,
+        "product_url": "https://www.buffalo.co.ke/product/seat-valve-rocker-arm/",
+        "flags": []
+      },
+      "line_price": 7800.0,
+      "mass_ratio_model_to_catalog": 0.6798253258854189
+    },
+    {
+      "catalog_part_no": "VG1560037033",
+      "example_name": "Rod bearing",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "e4582cc572e54bef89e6709cef67ec99",
+      "total_mass_kg": 1.226056452970692,
+      "unit_mass_kg": 0.20434274216178203,
+      "catalog": {
+        "part_no": "VG1560037033",
+        "name": "Shaft Lower Connecting Rod Bearing ShellBearing Shell",
+        "price": 4500.0,
+        "currency": "KES",
+        "net_weight_kg": 0.25,
+        "product_url": "https://www.buffalo.co.ke/product/shaft-lower-connecting-rod-bearing-shellbearing-shell/",
+        "flags": []
+      },
+      "line_price": 27000.0,
+      "mass_ratio_model_to_catalog": 0.8173709686471281
+    },
+    {
+      "catalog_part_no": "VG1560090001",
+      "example_name": "Starter motor",
+      "kind": "housing",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "a5b258b5f23341249b75a09b4d1ae709",
+      "total_mass_kg": 6.461435968700249,
+      "unit_mass_kg": 6.461435968700249,
+      "catalog": {
+        "part_no": "VG1560090001",
+        "name": "Starter Reduction Type",
+        "price": 33900.0,
+        "currency": "KES",
+        "net_weight_kg": 10.0,
+        "product_url": "https://www.buffalo.co.ke/product/starter-reduction-type/",
+        "flags": []
+      },
+      "line_price": 33900.0,
+      "mass_ratio_model_to_catalog": 0.6461435968700249
+    },
+    {
+      "catalog_part_no": "VG1029110055",
+      "example_name": "Turbocharger",
+      "kind": "turbocharger",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "f442eb2427964422b65bc4ac65582873",
+      "total_mass_kg": 40.498620301378544,
+      "unit_mass_kg": 40.498620301378544,
+      "catalog": {
+        "part_no": "VG1029110055",
+        "name": "Turbocharger Exhaust Gas",
+        "price": 128400.0,
+        "currency": "KES",
+        "net_weight_kg": 16.0,
+        "product_url": "https://www.buffalo.co.ke/product/turbocharger-exhaust-gas/",
+        "flags": []
+      },
+      "line_price": 128400.0,
+      "mass_ratio_model_to_catalog": 2.531163768836159
+    },
+    {
+      "catalog_part_no": "VG14040065A",
+      "example_name": "Valve cover",
+      "kind": "valve_cover",
+      "material": "al6061-t6",
+      "quantity": 6,
+      "revision_id": "02ea14ea40a14eb387797520c64ba56e",
+      "total_mass_kg": 4.799088000000001,
+      "unit_mass_kg": 0.7998480000000002,
+      "catalog": {
+        "part_no": "VG14040065A",
+        "name": "Cover Cover Cylinder",
+        "price": 1300.0,
+        "currency": "KES",
+        "net_weight_kg": 0.85,
+        "product_url": "https://www.buffalo.co.ke/product/cover-cover-cylinder/",
+        "flags": []
+      },
+      "line_price": 7800.0,
+      "mass_ratio_model_to_catalog": 0.9409976470588238
+    },
+    {
+      "catalog_part_no": "VG1540020003",
+      "example_name": "Vibration damper",
+      "kind": "pulley",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "5c5b50bc916b477694997ad8ede729f3",
+      "total_mass_kg": 16.037011269742802,
+      "unit_mass_kg": 16.037011269742802,
+      "catalog": {
+        "part_no": "VG1540020003",
+        "name": "Shock Absorber (Refer to DrawingR61540020003)",
+        "price": 13000.0,
+        "currency": "KES",
+        "net_weight_kg": 12.9,
+        "product_url": "https://www.buffalo.co.ke/product/shock-absorber-refer-to-drawingr61540020003/",
+        "flags": []
+      },
+      "line_price": 13000.0,
+      "mass_ratio_model_to_catalog": 1.2431791681971165
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Coolant pump pulley",
+      "kind": "pulley",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "1578ce32afd041cb92bd9a5a694f9dc2",
+      "total_mass_kg": 4.698622866951852,
+      "unit_mass_kg": 4.698622866951852,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Cooling fan",
+      "kind": "propeller",
+      "material": "polymer-reference",
+      "quantity": 1,
+      "revision_id": "fa7ad6adf04a4ca09e7bffb2f82a691f",
+      "total_mass_kg": 2.0460600637935262,
+      "unit_mass_kg": 2.0460600637935262,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Crank pulley",
+      "kind": "pulley",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "a7b52ff98c794a9fac7d293319bac6e4",
+      "total_mass_kg": 9.550400449217355,
+      "unit_mass_kg": 9.550400449217355,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Crankshaft",
+      "kind": "crankshaft",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "d610c2da482f4ea2a6a716a514c8181e",
+      "total_mass_kg": 118.17633612603683,
+      "unit_mass_kg": 118.17633612603683,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Crankshaft gear",
+      "kind": "spur_gear",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "d21f0d4254e142faadfaf8fe481b1756",
+      "total_mass_kg": 0.7430199332810364,
+      "unit_mass_kg": 0.7430199332810364,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Cylinder block",
+      "kind": "cylinder_block",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "7f8cdf7424df4953969cb79ee3b1bd3a",
+      "total_mass_kg": 332.9760983510691,
+      "unit_mass_kg": 332.9760983510691,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Exhaust manifold",
+      "kind": "exhaust_manifold",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "649fdae4ee03413f8046cc8efdad350e",
+      "total_mass_kg": 10.108687235635415,
+      "unit_mass_kg": 10.108687235635415,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Flywheel",
+      "kind": "flywheel",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "cbc5bac628674b9faf911304b9abffbb",
+      "total_mass_kg": 51.59113324473276,
+      "unit_mass_kg": 51.59113324473276,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Injection pump gear",
+      "kind": "spur_gear",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "07aaf997a4774f9792c311c460626e08",
+      "total_mass_kg": 5.515547308368414,
+      "unit_mass_kg": 5.515547308368414,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Intake manifold",
+      "kind": "intake_manifold",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "c0437434c167499c8179e70ac1bd91e5",
+      "total_mass_kg": 3.1557745129885713,
+      "unit_mass_kg": 3.1557745129885713,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Intake pushrod",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 12,
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "total_mass_kg": 1.7956039846968015,
+      "unit_mass_kg": 0.14963366539140016,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Main bearing cap",
+      "kind": "bearing_cap",
+      "material": "cast-iron-reference",
+      "quantity": 7,
+      "revision_id": "bf0ba1f209a941e1a8fff829901c99ae",
+      "total_mass_kg": 20.049994755522142,
+      "unit_mass_kg": 2.864284965074592,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Oil pan",
+      "kind": "oil_pan",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "711d1448d56f4f05b0398d11a298345e",
+      "total_mass_kg": 22.86645340000003,
+      "unit_mass_kg": 22.86645340000003,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Rocker shaft",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "177beb762cd14a299c387a5d9068351c",
+      "total_mass_kg": 1.4323400553658874,
+      "unit_mass_kg": 0.23872334256098127,
+      "catalog": null
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Timing gear case",
+      "kind": "timing_case",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "11caad25ef9b495c9a3be8b0bc0db832",
+      "total_mass_kg": 10.683263333050188,
+      "unit_mass_kg": 10.683263333050188,
+      "catalog": null
+    }
+  ],
+  "totals_by_currency": {
+    "KES": 885480.0
+  },
+  "unpriced_lines": 0,
+  "linked_lines": 35,
+  "basis": "Catalog prices are list prices from the imported source at import time; quantities come from the assembly. Unlinked or unpriced lines are excluded from totals, not estimated.",
+  "assembly_id": "b87921938e9f4267899e4462eb090a32",
+  "built_version": 2,
+  "stale": false,
+  "component_count": 197,
+  "modelled_mass_kg": 999.2816109910085
+}

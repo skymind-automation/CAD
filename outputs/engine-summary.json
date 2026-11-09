@@ -1,0 +1,65 @@
+{
+  "name": "HOWO WD615-class 9.7 L in-line six (concept)",
+  "configuration": "in-line 6, four-stroke diesel",
+  "bore_mm": 126.0,
+  "stroke_mm": 130.0,
+  "rod_length_mm": 219.0,
+  "rod_ratio": 3.3692307692307693,
+  "displacement_l": 9.725805368836355,
+  "firing_order": "1-5-3-6-2-4",
+  "crank_throw_phases_deg": [
+    0.0,
+    240.0,
+    120.0,
+    120.0,
+    240.0,
+    0.0
+  ],
+  "deck_height_mm": 364.0,
+  "bowl_depth_mm": 15.1811,
+  "clearance_volume_mm3": 101310.3042320192,
+  "geometric_compression_ratio": 17.000026589204708,
+  "rocker_ratio": 1.15,
+  "max_valve_lift_mm": 9.849840277381947,
+  "valve_timing_deg": {
+    "intake_opens_btdc": 20.0,
+    "intake_closes_abdc": 46.0,
+    "exhaust_opens_bbdc": 50.0,
+    "exhaust_closes_atdc": 20.0
+  },
+  "gear_train": {
+    "crank": [
+      0.0,
+      0.0
+    ],
+    "idler": [
+      119.72913014054168,
+      8.058250169188526
+    ],
+    "cam": [
+      115.0,
+      200.0
+    ],
+    "pump": [
+      282.55436460257545,
+      109.80274890196387
+    ],
+    "clearances_mm": {
+      "pump_shaft_to_cam_gear_mm": 24.789277687984736,
+      "pump_gear_to_crank_seal_mm": 95.13959263414085,
+      "cam_gear_to_crank_gear_mm": 6.7054399011865655
+    }
+  },
+  "declared_rated_power_kw": 247.0,
+  "declared_rated_speed_rpm": 2200.0,
+  "mean_piston_speed_m_s": 9.533333333333333,
+  "declared_bmep_bar": 13.852556947002961,
+  "valve_to_piston": {
+    "gap_mm": 3.389965704131953,
+    "crank_deg": 2.0,
+    "cylinder": 6,
+    "valve": "intake",
+    "valve_lift_mm": 0.3613795849834212
+  },
+  "basis": "Geometry-derived values are computed from the parametric layout; power and speed are declared inputs, BMEP follows from them and is not a performance prediction."
+}

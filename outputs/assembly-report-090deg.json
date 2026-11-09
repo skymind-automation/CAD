@@ -1,0 +1,6358 @@
+{
+  "artifacts": {
+    "assembly_mesh": "07803c654f074a86a979aa4257030c56",
+    "assembly_report": "16945115d0a2452f9ee7f4bf14f206fd",
+    "assembly_step": "eadc7bf00d384ab5b9a6de8cc6ada0a7"
+  },
+  "bbox_mm": {
+    "max": [
+      775.0000001,
+      446.554364603,
+      600.0000001
+    ],
+    "min": [
+      -665.0,
+      -560.5000001,
+      -330.0
+    ]
+  },
+  "bill_of_materials": [
+    {
+      "catalog_part_no": "VG1093130001",
+      "example_name": "Air compressor",
+      "kind": "housing",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "a426bec7ddec48a690505c35a0e9ace6",
+      "total_mass_kg": 4.9449223555013555,
+      "unit_mass_kg": 4.9449223555013555
+    },
+    {
+      "catalog_part_no": "VG1095094002ST",
+      "example_name": "Alternator",
+      "kind": "housing",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "100f069e96e14a2589d6106d6f0433bb",
+      "total_mass_kg": 2.6319231014822324,
+      "unit_mass_kg": 2.6319231014822324
+    },
+    {
+      "catalog_part_no": "VG1500050097A",
+      "example_name": "Camshaft",
+      "kind": "camshaft",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "ca0dc1ec1cc24e0dbf93498ab7d5e3d6",
+      "total_mass_kg": 21.840071234789168,
+      "unit_mass_kg": 21.840071234789168
+    },
+    {
+      "catalog_part_no": "VG14050053",
+      "example_name": "Camshaft gear",
+      "kind": "spur_gear",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "583ca61ba9fc4f6095b21a5415e3c76a",
+      "total_mass_kg": 5.541145947787659,
+      "unit_mass_kg": 5.541145947787659
+    },
+    {
+      "catalog_part_no": "61500030009GFT",
+      "example_name": "Connecting rod",
+      "kind": "connecting_rod",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "be9d84d5e8d04b858f9f30769b89d2ee",
+      "total_mass_kg": 21.516153537922232,
+      "unit_mass_kg": 3.5860255896537057
+    },
+    {
+      "catalog_part_no": "VG1062060351",
+      "example_name": "Coolant pump",
+      "kind": "housing",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "93877bb85fde44ca80668705a329474a",
+      "total_mass_kg": 2.409709513340088,
+      "unit_mass_kg": 2.409709513340088
+    },
+    {
+      "catalog_part_no": "161560040058FT",
+      "example_name": "Cylinder head",
+      "kind": "cylinder_head",
+      "material": "cast-iron-reference",
+      "quantity": 6,
+      "revision_id": "b452908ebeb3471b815b0970bef797b0",
+      "total_mass_kg": 160.05720884031672,
+      "unit_mass_kg": 26.67620147338612
+    },
+    {
+      "catalog_part_no": "VG1540010006",
+      "example_name": "Cylinder liner",
+      "kind": "cylinder_liner",
+      "material": "cast-iron-reference",
+      "quantity": 6,
+      "revision_id": "2438a53c411042c4a78edf2c27c78552",
+      "total_mass_kg": 8.888093404571318,
+      "unit_mass_kg": 1.4813489007618863
+    },
+    {
+      "catalog_part_no": "VG14050049",
+      "example_name": "Exhaust rocker",
+      "kind": "rocker_arm",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "total_mass_kg": 1.9983053514591282,
+      "unit_mass_kg": 0.3330508919098547
+    },
+    {
+      "catalog_part_no": "VG1560050041",
+      "example_name": "Exhaust valve",
+      "kind": "valve",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "cce6385b6877478ab533a6fbfbb9d89d",
+      "total_mass_kg": 1.065270130657595,
+      "unit_mass_kg": 0.17754502177626583
+    },
+    {
+      "catalog_part_no": "AZ1500010012FT",
+      "example_name": "Flywheel housing",
+      "kind": "bell_housing",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "c318759124eb4125b303e2b3fb19b0ea",
+      "total_mass_kg": 15.621003983297557,
+      "unit_mass_kg": 15.621003983297557
+    },
+    {
+      "catalog_part_no": "VG1560080012ST",
+      "example_name": "Fuel filter",
+      "kind": "canister",
+      "material": "steel-reference",
+      "quantity": 2,
+      "revision_id": "c28bd8ed1d7e47949edae5c9aef4ebaa",
+      "total_mass_kg": 3.4783237949204278,
+      "unit_mass_kg": 1.7391618974602139
+    },
+    {
+      "catalog_part_no": "VG1500040023",
+      "example_name": "Head bolt 1.1",
+      "kind": "fastener",
+      "material": "steel-reference",
+      "quantity": 24,
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "total_mass_kg": 8.190297473993438,
+      "unit_mass_kg": 0.3412623947497266
+    },
+    {
+      "catalog_part_no": "VG1500040065",
+      "example_name": "Head gasket",
+      "kind": "head_gasket",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "a7bdddcd849241b2bafe9cbf0244d0cb",
+      "total_mass_kg": 1.2368832478678204,
+      "unit_mass_kg": 0.20614720797797007
+    },
+    {
+      "catalog_part_no": "VG1540059031",
+      "example_name": "Idler axle",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "c0507855c37247c885a3f3a1d64d2414",
+      "total_mass_kg": 0.43947906920876423,
+      "unit_mass_kg": 0.43947906920876423
+    },
+    {
+      "catalog_part_no": "VG1560050053",
+      "example_name": "Idler gear",
+      "kind": "spur_gear",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "84939fd92dd2467592bbd1466da03498",
+      "total_mass_kg": 1.9640895276146515,
+      "unit_mass_kg": 1.9640895276146515
+    },
+    {
+      "catalog_part_no": "VG1560080022",
+      "example_name": "Injection pump",
+      "kind": "injection_pump",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "301c1468d273450082c4396e11259f33",
+      "total_mass_kg": 14.150146309317906,
+      "unit_mass_kg": 14.150146309317906
+    },
+    {
+      "catalog_part_no": "VG1560080300",
+      "example_name": "Injection pump drive shaft",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "2d663bdb0ace41a8bcaef7d1f133fb3b",
+      "total_mass_kg": 0.5966542220128861,
+      "unit_mass_kg": 0.5966542220128861
+    },
+    {
+      "catalog_part_no": "VG1560080276",
+      "example_name": "Injector",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "5ffc24e604a54638a3c2a0536d1c8be1",
+      "total_mass_kg": 3.119952554431758,
+      "unit_mass_kg": 0.519992092405293
+    },
+    {
+      "catalog_part_no": "VG14050048",
+      "example_name": "Intake rocker",
+      "kind": "rocker_arm",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "total_mass_kg": 1.9983053514591282,
+      "unit_mass_kg": 0.3330508919098547
+    },
+    {
+      "catalog_part_no": "VG1500050032",
+      "example_name": "Intake tappet",
+      "kind": "tappet",
+      "material": "steel-reference",
+      "quantity": 12,
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "total_mass_kg": 2.8607342703588663,
+      "unit_mass_kg": 0.23839452252990553
+    },
+    {
+      "catalog_part_no": "VG1560051001",
+      "example_name": "Intake valve",
+      "kind": "valve",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "2d74fd663022491587002f4b55c321a9",
+      "total_mass_kg": 1.2631820644606644,
+      "unit_mass_kg": 0.2105303440767774
+    },
+    {
+      "catalog_part_no": "VG14010217",
+      "example_name": "Main bearing bolt 1L",
+      "kind": "fastener",
+      "material": "steel-reference",
+      "quantity": 14,
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "total_mass_kg": 5.586845745838926,
+      "unit_mass_kg": 0.39906041041706614
+    },
+    {
+      "catalog_part_no": "VG1500010046",
+      "example_name": "Main bearing shell",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 7,
+      "revision_id": "a1afe11c44a24535991465ecdc863c56",
+      "total_mass_kg": 1.4438816384566562,
+      "unit_mass_kg": 0.20626880549380802
+    },
+    {
+      "catalog_part_no": "VG1540010014B",
+      "example_name": "Oil cooler",
+      "kind": "housing",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "617fde14a5a64e4ea4c3c12b13578518",
+      "total_mass_kg": 6.7392,
+      "unit_mass_kg": 6.7392
+    },
+    {
+      "catalog_part_no": "VG61000070005ST",
+      "example_name": "Oil filter",
+      "kind": "canister",
+      "material": "steel-reference",
+      "quantity": 2,
+      "revision_id": "90edb0f30af849efb11a123e7b6c11d1",
+      "total_mass_kg": 4.8373273363311675,
+      "unit_mass_kg": 2.4186636681655838
+    },
+    {
+      "catalog_part_no": "VG1500070048",
+      "example_name": "Oil pump",
+      "kind": "housing",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "54755259886c4f298ce22f834ff2dd72",
+      "total_mass_kg": 6.958162805928928,
+      "unit_mass_kg": 6.958162805928928
+    },
+    {
+      "catalog_part_no": "VG1560037011A",
+      "example_name": "Piston",
+      "kind": "piston",
+      "material": "aluminum-casting-reference",
+      "quantity": 6,
+      "revision_id": "33bcc4d33b4341c78e858819cdd2f01f",
+      "total_mass_kg": 13.344298073683424,
+      "unit_mass_kg": 2.2240496789472375
+    },
+    {
+      "catalog_part_no": "VG1560030013",
+      "example_name": "Piston pin",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "6a31230e0e2444f68a6cb4f178e4c476",
+      "total_mass_kg": 7.701121317308401,
+      "unit_mass_kg": 1.2835202195514002
+    },
+    {
+      "catalog_part_no": "VG14050119",
+      "example_name": "Rocker pedestal",
+      "kind": "rocker_pedestal",
+      "material": "cast-iron-reference",
+      "quantity": 6,
+      "revision_id": "068ce5b352a24c159872c459de6f6983",
+      "total_mass_kg": 2.4473711731875083,
+      "unit_mass_kg": 0.4078951955312513
+    },
+    {
+      "catalog_part_no": "VG1560037033",
+      "example_name": "Rod bearing",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "e4582cc572e54bef89e6709cef67ec99",
+      "total_mass_kg": 1.226056452970692,
+      "unit_mass_kg": 0.20434274216178203
+    },
+    {
+      "catalog_part_no": "VG1560090001",
+      "example_name": "Starter motor",
+      "kind": "housing",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "a5b258b5f23341249b75a09b4d1ae709",
+      "total_mass_kg": 6.461435968700249,
+      "unit_mass_kg": 6.461435968700249
+    },
+    {
+      "catalog_part_no": "VG1029110055",
+      "example_name": "Turbocharger",
+      "kind": "turbocharger",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "f442eb2427964422b65bc4ac65582873",
+      "total_mass_kg": 40.498620301378544,
+      "unit_mass_kg": 40.498620301378544
+    },
+    {
+      "catalog_part_no": "VG14040065A",
+      "example_name": "Valve cover",
+      "kind": "valve_cover",
+      "material": "al6061-t6",
+      "quantity": 6,
+      "revision_id": "02ea14ea40a14eb387797520c64ba56e",
+      "total_mass_kg": 4.799088000000001,
+      "unit_mass_kg": 0.7998480000000002
+    },
+    {
+      "catalog_part_no": "VG1540020003",
+      "example_name": "Vibration damper",
+      "kind": "pulley",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "5c5b50bc916b477694997ad8ede729f3",
+      "total_mass_kg": 16.037011269742802,
+      "unit_mass_kg": 16.037011269742802
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Coolant pump pulley",
+      "kind": "pulley",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "1578ce32afd041cb92bd9a5a694f9dc2",
+      "total_mass_kg": 4.698622866951852,
+      "unit_mass_kg": 4.698622866951852
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Cooling fan",
+      "kind": "propeller",
+      "material": "polymer-reference",
+      "quantity": 1,
+      "revision_id": "fa7ad6adf04a4ca09e7bffb2f82a691f",
+      "total_mass_kg": 2.0460600637935262,
+      "unit_mass_kg": 2.0460600637935262
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Crank pulley",
+      "kind": "pulley",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "a7b52ff98c794a9fac7d293319bac6e4",
+      "total_mass_kg": 9.550400449217355,
+      "unit_mass_kg": 9.550400449217355
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Crankshaft",
+      "kind": "crankshaft",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "d610c2da482f4ea2a6a716a514c8181e",
+      "total_mass_kg": 118.17633612603683,
+      "unit_mass_kg": 118.17633612603683
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Crankshaft gear",
+      "kind": "spur_gear",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "d21f0d4254e142faadfaf8fe481b1756",
+      "total_mass_kg": 0.7430199332810364,
+      "unit_mass_kg": 0.7430199332810364
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Cylinder block",
+      "kind": "cylinder_block",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "7f8cdf7424df4953969cb79ee3b1bd3a",
+      "total_mass_kg": 332.9760983510691,
+      "unit_mass_kg": 332.9760983510691
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Exhaust manifold",
+      "kind": "exhaust_manifold",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "649fdae4ee03413f8046cc8efdad350e",
+      "total_mass_kg": 10.108687235635415,
+      "unit_mass_kg": 10.108687235635415
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Flywheel",
+      "kind": "flywheel",
+      "material": "cast-iron-reference",
+      "quantity": 1,
+      "revision_id": "cbc5bac628674b9faf911304b9abffbb",
+      "total_mass_kg": 51.59113324473276,
+      "unit_mass_kg": 51.59113324473276
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Injection pump gear",
+      "kind": "spur_gear",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "07aaf997a4774f9792c311c460626e08",
+      "total_mass_kg": 5.515547308368414,
+      "unit_mass_kg": 5.515547308368414
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Intake manifold",
+      "kind": "intake_manifold",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "c0437434c167499c8179e70ac1bd91e5",
+      "total_mass_kg": 3.1557745129885713,
+      "unit_mass_kg": 3.1557745129885713
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Intake pushrod",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 12,
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "total_mass_kg": 1.7956039846968015,
+      "unit_mass_kg": 0.14963366539140016
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Main bearing cap",
+      "kind": "bearing_cap",
+      "material": "cast-iron-reference",
+      "quantity": 7,
+      "revision_id": "bf0ba1f209a941e1a8fff829901c99ae",
+      "total_mass_kg": 20.049994755522142,
+      "unit_mass_kg": 2.864284965074592
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Oil pan",
+      "kind": "oil_pan",
+      "material": "steel-reference",
+      "quantity": 1,
+      "revision_id": "711d1448d56f4f05b0398d11a298345e",
+      "total_mass_kg": 22.86645340000003,
+      "unit_mass_kg": 22.86645340000003
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Rocker shaft",
+      "kind": "shaft",
+      "material": "steel-reference",
+      "quantity": 6,
+      "revision_id": "177beb762cd14a299c387a5d9068351c",
+      "total_mass_kg": 1.4323400553658874,
+      "unit_mass_kg": 0.23872334256098127
+    },
+    {
+      "catalog_part_no": null,
+      "example_name": "Timing gear case",
+      "kind": "timing_case",
+      "material": "al6061-t6",
+      "quantity": 1,
+      "revision_id": "11caad25ef9b495c9a3be8b0bc0db832",
+      "total_mass_kg": 10.683263333050188,
+      "unit_mass_kg": 10.683263333050188
+    }
+  ],
+  "center_of_mass_mm": [
+    -36.30505903090517,
+    3.953809775843398,
+    178.88804545214583
+  ],
+  "component_count": 197,
+  "components": [
+    {
+      "bbox_mm": {
+        "max": [
+          490.00000010000014,
+          165.2,
+          364.0000001
+        ],
+        "min": [
+          -490.0000000999999,
+          -150.0,
+          -90.0
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        1.7486593100244907,
+        34.848434278186524,
+        172.52784272447263
+      ],
+      "id": "1187e09b235846f6822d284e936d0303",
+      "kind": "cylinder_block",
+      "mass_kg": 332.9760983510691,
+      "material": "cast-iron-reference",
+      "name": "Cylinder block",
+      "revision_id": "7f8cdf7424df4953969cb79ee3b1bd3a",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 46246680.326537386
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          490.0,
+          150.0,
+          -90.0
+        ],
+        "min": [
+          -490.0,
+          -150.0,
+          -330.0
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -2.0989674644277078e-13,
+        0.0,
+        -236.21462901194872
+      ],
+      "id": "1fbc7c97ff2a45f2898c06b7d2832a03",
+      "kind": "oil_pan",
+      "mass_kg": 22.86645340000003,
+      "material": "steel-reference",
+      "name": "Oil pan",
+      "revision_id": "711d1448d56f4f05b0398d11a298345e",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 2912924.0
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          468.0,
+          110.0,
+          0.0
+        ],
+        "min": [
+          432.0,
+          -110.0,
+          -75.0
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        450.00000000000006,
+        4.096891399857428e-15,
+        -43.4624345693547
+      ],
+      "id": "47c3e45804f34ad7aa741eb7c191f9fc",
+      "kind": "bearing_cap",
+      "mass_kg": 2.864284965074592,
+      "material": "cast-iron-reference",
+      "name": "Main bearing cap 1",
+      "revision_id": "bf0ba1f209a941e1a8fff829901c99ae",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 397817.35626036
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          467.0,
+          52.45,
+          52.45000000000001
+        ],
+        "min": [
+          433.0,
+          -52.45,
+          -52.45
+        ]
+      },
+      "catalog_part_no": "VG1500010046",
+      "center_mm": [
+        450.0000000000003,
+        1.526116503831329e-14,
+        -4.784868444290192e-13
+      ],
+      "id": "6fd10cbcbc164949a0f3c9ef35b1f2b8",
+      "kind": "shaft",
+      "mass_kg": 0.20626880549380802,
+      "material": "steel-reference",
+      "name": "Main bearing shell 1",
+      "revision_id": "a1afe11c44a24535991465ecdc863c56",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 26276.280954625225
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          463.5,
+          -59.411542731880104,
+          95.0
+        ],
+        "min": [
+          436.5,
+          -90.5884572681199,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        450.00000000000006,
+        -75.0,
+        -3.561627465856353
+      ],
+      "id": "4a44aa8372e94bd7af9443881d9c6561",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 1L",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.7210722377
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          463.5,
+          90.5884572681199,
+          95.0
+        ],
+        "min": [
+          436.5,
+          59.411542731880104,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        450.0,
+        75.00000000000001,
+        -3.5616274658563456
+      ],
+      "id": "ceda6b3e338c4cf197813f17d943b20a",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 1R",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.721072237706
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          318.0,
+          110.0,
+          0.0
+        ],
+        "min": [
+          282.0,
+          -110.0,
+          -75.0
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        300.0,
+        4.096891399857428e-15,
+        -43.4624345693547
+      ],
+      "id": "27b9f234aa424bc39a160d89a67955ec",
+      "kind": "bearing_cap",
+      "mass_kg": 2.864284965074592,
+      "material": "cast-iron-reference",
+      "name": "Main bearing cap 2",
+      "revision_id": "bf0ba1f209a941e1a8fff829901c99ae",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 397817.35626036
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          317.0,
+          52.45,
+          52.45000000000001
+        ],
+        "min": [
+          283.0,
+          -52.45,
+          -52.45
+        ]
+      },
+      "catalog_part_no": "VG1500010046",
+      "center_mm": [
+        300.0000000000001,
+        1.526116503831329e-14,
+        -4.784868444290192e-13
+      ],
+      "id": "b885b9b4183b41c49d42c1c2d7dfd511",
+      "kind": "shaft",
+      "mass_kg": 0.20626880549380802,
+      "material": "steel-reference",
+      "name": "Main bearing shell 2",
+      "revision_id": "a1afe11c44a24535991465ecdc863c56",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 26276.280954625225
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          313.5,
+          -59.411542731880104,
+          95.0
+        ],
+        "min": [
+          286.5,
+          -90.5884572681199,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        300.0,
+        -75.0,
+        -3.561627465856353
+      ],
+      "id": "067e1260f4ce4c8cb2cb0724906f57c8",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 2L",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.7210722377
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          313.5,
+          90.5884572681199,
+          95.0
+        ],
+        "min": [
+          286.5,
+          59.411542731880104,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        300.0,
+        75.00000000000001,
+        -3.5616274658563456
+      ],
+      "id": "367a2d3664e246619aa7a8794b3ba5bb",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 2R",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.721072237706
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          168.0,
+          110.0,
+          0.0
+        ],
+        "min": [
+          132.0,
+          -110.0,
+          -75.0
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        150.0,
+        2.926350999898163e-15,
+        -43.4624345693547
+      ],
+      "id": "47d06668fbc84c4e8a81595a6cebcbc0",
+      "kind": "bearing_cap",
+      "mass_kg": 2.864284965074592,
+      "material": "cast-iron-reference",
+      "name": "Main bearing cap 3",
+      "revision_id": "bf0ba1f209a941e1a8fff829901c99ae",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 397817.35626036
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          167.0,
+          52.45,
+          52.45000000000001
+        ],
+        "min": [
+          133.0,
+          -52.45,
+          -52.45
+        ]
+      },
+      "catalog_part_no": "VG1500010046",
+      "center_mm": [
+        150.00000000000006,
+        1.526116503831329e-14,
+        -4.784868444290192e-13
+      ],
+      "id": "bdbaa85dbbea4c3a9da75e5ec6e538e9",
+      "kind": "shaft",
+      "mass_kg": 0.20626880549380802,
+      "material": "steel-reference",
+      "name": "Main bearing shell 3",
+      "revision_id": "a1afe11c44a24535991465ecdc863c56",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 26276.280954625225
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          163.5,
+          -59.411542731880104,
+          95.0
+        ],
+        "min": [
+          136.5,
+          -90.5884572681199,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        150.00000000000003,
+        -74.99999999999999,
+        -3.561627465856347
+      ],
+      "id": "e9ecdcb208244904899e2017c77590a2",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 3L",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.72107223772
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          163.5,
+          90.5884572681199,
+          95.0
+        ],
+        "min": [
+          136.5,
+          59.411542731880104,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        150.00000000000003,
+        75.0,
+        -3.5616274658563514
+      ],
+      "id": "8059ccdfd33448159ec3be233262f228",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 3R",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.72107223772
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          18.0,
+          110.0,
+          0.0
+        ],
+        "min": [
+          -18.0,
+          -110.0,
+          -75.0
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -5.681236120896043e-16,
+        2.3410807999185304e-15,
+        -43.4624345693547
+      ],
+      "id": "14bb9aa75c30484bb36bcc9216d3b7d6",
+      "kind": "bearing_cap",
+      "mass_kg": 2.864284965074592,
+      "material": "cast-iron-reference",
+      "name": "Main bearing cap 4",
+      "revision_id": "bf0ba1f209a941e1a8fff829901c99ae",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 397817.35626036
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          17.000000000000007,
+          52.45,
+          52.45000000000001
+        ],
+        "min": [
+          -17.000000000000007,
+          -52.45,
+          -52.45
+        ]
+      },
+      "catalog_part_no": "VG1500010046",
+      "center_mm": [
+        -2.2885492201464774e-14,
+        2.1229671270499187e-14,
+        -5.05069446897298e-13
+      ],
+      "id": "56b1ce322aec4f60aecb49f7fe61ed69",
+      "kind": "shaft",
+      "mass_kg": 0.20626880549380802,
+      "material": "steel-reference",
+      "name": "Main bearing shell 4",
+      "revision_id": "a1afe11c44a24535991465ecdc863c56",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 26276.280954625225
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          13.500000000000002,
+          -59.411542731880104,
+          95.0
+        ],
+        "min": [
+          -13.500000000000002,
+          -90.5884572681199,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        -1.073451521004925e-15,
+        -75.0,
+        -3.561627465856336
+      ],
+      "id": "cc557c12e7f34d329983fa2be231d9c6",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 4L",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.72107223771
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          13.500000000000002,
+          90.5884572681199,
+          95.0
+        ],
+        "min": [
+          -13.500000000000002,
+          59.411542731880104,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        -1.1092332383717557e-15,
+        74.99999999999999,
+        -3.5616274658563283
+      ],
+      "id": "31692ac4e5e141da9a83a90e7ae0cc6a",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 4R",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.72107223772
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -132.0,
+          110.0,
+          0.0
+        ],
+        "min": [
+          -168.0,
+          -110.0,
+          -75.0
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -150.00000000000003,
+        2.926350999898163e-15,
+        -43.4624345693547
+      ],
+      "id": "0c7c4d02dc5342bf9730e3341698c774",
+      "kind": "bearing_cap",
+      "mass_kg": 2.864284965074592,
+      "material": "cast-iron-reference",
+      "name": "Main bearing cap 5",
+      "revision_id": "bf0ba1f209a941e1a8fff829901c99ae",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 397817.35626036
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -133.0,
+          52.45,
+          52.45000000000001
+        ],
+        "min": [
+          -167.0,
+          -52.45,
+          -52.45
+        ]
+      },
+      "catalog_part_no": "VG1500010046",
+      "center_mm": [
+        -150.00000000000006,
+        1.526116503831329e-14,
+        -4.784868444290192e-13
+      ],
+      "id": "9110bd68acd94ed082abc9653691e5b7",
+      "kind": "shaft",
+      "mass_kg": 0.20626880549380802,
+      "material": "steel-reference",
+      "name": "Main bearing shell 5",
+      "revision_id": "a1afe11c44a24535991465ecdc863c56",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 26276.280954625225
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -136.5,
+          -59.411542731880104,
+          95.0
+        ],
+        "min": [
+          -163.5,
+          -90.5884572681199,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        -149.99999999999997,
+        -74.99999999999999,
+        -3.561627465856347
+      ],
+      "id": "ba4462270dec4af6b508318c16a376e3",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 5L",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.72107223772
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -136.5,
+          90.5884572681199,
+          95.0
+        ],
+        "min": [
+          -163.5,
+          59.411542731880104,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        -149.99999999999997,
+        75.0,
+        -3.5616274658563514
+      ],
+      "id": "6c16aa6901d14fe9b67d5a0a6d6f6e8d",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 5R",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.72107223772
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -282.0,
+          110.0,
+          0.0
+        ],
+        "min": [
+          -318.0,
+          -110.0,
+          -75.0
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -299.99999999999994,
+        4.096891399857428e-15,
+        -43.4624345693547
+      ],
+      "id": "f0e7b228927b446ab5c8e4589c990952",
+      "kind": "bearing_cap",
+      "mass_kg": 2.864284965074592,
+      "material": "cast-iron-reference",
+      "name": "Main bearing cap 6",
+      "revision_id": "bf0ba1f209a941e1a8fff829901c99ae",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 397817.35626036
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -283.0,
+          52.45,
+          52.45000000000001
+        ],
+        "min": [
+          -317.0,
+          -52.45,
+          -52.45
+        ]
+      },
+      "catalog_part_no": "VG1500010046",
+      "center_mm": [
+        -300.0000000000001,
+        1.526116503831329e-14,
+        -4.784868444290192e-13
+      ],
+      "id": "4b7e30c51be74c05b5f62cb26e14b570",
+      "kind": "shaft",
+      "mass_kg": 0.20626880549380802,
+      "material": "steel-reference",
+      "name": "Main bearing shell 6",
+      "revision_id": "a1afe11c44a24535991465ecdc863c56",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 26276.280954625225
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -286.5,
+          -59.411542731880104,
+          95.0
+        ],
+        "min": [
+          -313.5,
+          -90.5884572681199,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        -300.0,
+        -75.0,
+        -3.561627465856353
+      ],
+      "id": "3e226b3e6024488fa61b5e61a40f6171",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 6L",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.7210722377
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -286.5,
+          90.5884572681199,
+          95.0
+        ],
+        "min": [
+          -313.5,
+          59.411542731880104,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        -300.0000000000001,
+        75.00000000000001,
+        -3.5616274658563456
+      ],
+      "id": "efd90234f3c64982a1a7767bbabd06e6",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 6R",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.721072237706
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -432.0,
+          110.0,
+          0.0
+        ],
+        "min": [
+          -468.0,
+          -110.0,
+          -75.0
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -449.99999999999994,
+        4.096891399857428e-15,
+        -43.4624345693547
+      ],
+      "id": "12a538bfc2a04b90ad038511b418d0d3",
+      "kind": "bearing_cap",
+      "mass_kg": 2.864284965074592,
+      "material": "cast-iron-reference",
+      "name": "Main bearing cap 7",
+      "revision_id": "bf0ba1f209a941e1a8fff829901c99ae",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 397817.35626036
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -433.0,
+          52.45,
+          52.45000000000001
+        ],
+        "min": [
+          -467.0,
+          -52.45,
+          -52.45
+        ]
+      },
+      "catalog_part_no": "VG1500010046",
+      "center_mm": [
+        -450.0000000000003,
+        1.526116503831329e-14,
+        -4.784868444290192e-13
+      ],
+      "id": "0d93ef7b84a244008705f4533d266fc7",
+      "kind": "shaft",
+      "mass_kg": 0.20626880549380802,
+      "material": "steel-reference",
+      "name": "Main bearing shell 7",
+      "revision_id": "a1afe11c44a24535991465ecdc863c56",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 26276.280954625225
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -436.5,
+          -59.411542731880104,
+          95.0
+        ],
+        "min": [
+          -463.5,
+          -90.5884572681199,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        -450.0,
+        -75.0,
+        -3.561627465856353
+      ],
+      "id": "798ae70ad2764e348e9aab3815283ba5",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 7L",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.7210722377
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -436.5,
+          90.5884572681199,
+          95.0
+        ],
+        "min": [
+          -463.5,
+          59.411542731880104,
+          -87.0
+        ]
+      },
+      "catalog_part_no": "VG14010217",
+      "center_mm": [
+        -450.00000000000006,
+        75.00000000000001,
+        -3.5616274658563456
+      ],
+      "id": "d519890e1a2344fb8eea1010f2872495",
+      "kind": "fastener",
+      "mass_kg": 0.39906041041706614,
+      "material": "steel-reference",
+      "name": "Main bearing bolt 7R",
+      "revision_id": "3e71f401ce1f4887ba45f895c950d2a5",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 50835.721072237706
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          602.0,
+          92.45133989,
+          116.291651246
+        ],
+        "min": [
+          -585.0,
+          -124.95133989,
+          -116.097089734
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -35.38268389904921,
+        -3.369693397167143e-11,
+        -8.615017158853625e-12
+      ],
+      "id": "5365333c4cdb481193543c3022207dc0",
+      "kind": "crankshaft",
+      "mass_kg": 118.17633612603683,
+      "material": "steel-reference",
+      "name": "Crankshaft",
+      "revision_id": "d610c2da482f4ea2a6a716a514c8181e",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 15054310.334526982
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          602.0,
+          150.0,
+          150.0
+        ],
+        "min": [
+          558.0,
+          -150.0,
+          -150.0
+        ]
+      },
+      "catalog_part_no": "VG1540020003",
+      "center_mm": [
+        575.8414173505813,
+        4.3694370064000345e-14,
+        6.191935313920478e-15
+      ],
+      "id": "8369013e3f614bd9b206ac334a2adb44",
+      "kind": "pulley",
+      "mass_kg": 16.037011269742802,
+      "material": "cast-iron-reference",
+      "name": "Vibration damper",
+      "revision_id": "5c5b50bc916b477694997ad8ede729f3",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 2227362.676353167
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          555.0,
+          110.0,
+          110.0
+        ],
+        "min": [
+          515.0,
+          -110.0,
+          -110.0
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        535.0000000000003,
+        1.8079577526810376e-14,
+        6.843364919011367e-15
+      ],
+      "id": "b38c6eda624a4255ab6185c888b81510",
+      "kind": "pulley",
+      "mass_kg": 9.550400449217355,
+      "material": "cast-iron-reference",
+      "name": "Crank pulley",
+      "revision_id": "a7b52ff98c794a9fac7d293319bac6e4",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 1326444.506835743
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -585.0,
+          227.4955334069287,
+          227.4955334069287
+        ],
+        "min": [
+          -645.0,
+          -227.4955334069287,
+          -227.4955334069287
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -609.0717348403028,
+        -1.7942548908854997e-15,
+        1.1483103242009336e-14
+      ],
+      "id": "7292993ab169403185bc7648b6aaa37d",
+      "kind": "flywheel",
+      "mass_kg": 51.59113324473276,
+      "material": "cast-iron-reference",
+      "name": "Flywheel",
+      "revision_id": "cbc5bac628674b9faf911304b9abffbb",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 7165435.172879547
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -555.0,
+          280.0,
+          280.0
+        ],
+        "min": [
+          -665.0,
+          -280.0,
+          -280.0
+        ]
+      },
+      "catalog_part_no": "AZ1500010012FT",
+      "center_mm": [
+        -600.8045178106004,
+        -1.351006243153371e-13,
+        1.6483707814491674e-13
+      ],
+      "id": "091ece61920c4b6fba5678ce1a2333d6",
+      "kind": "bell_housing",
+      "mass_kg": 15.621003983297557,
+      "material": "cast-iron-reference",
+      "name": "Flywheel housing",
+      "revision_id": "c318759124eb4125b303e2b3fb19b0ea",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 2169583.886569105
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          445.0,
+          70.0,
+          364.0
+        ],
+        "min": [
+          305.0,
+          -70.0,
+          124.0
+        ]
+      },
+      "catalog_part_no": "VG1540010006",
+      "center_mm": [
+        375.0000000000005,
+        6.305786562977458e-14,
+        251.23545579477786
+      ],
+      "id": "58fedd9424de4316b0fe8f4442dfdcec",
+      "kind": "cylinder_liner",
+      "mass_kg": 1.4813489007618863,
+      "material": "cast-iron-reference",
+      "name": "Cylinder liner 1",
+      "revision_id": "2438a53c411042c4a78edf2c27c78552",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 205742.90288359486
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          397.0,
+          34.00000049966568,
+          243.13153739941632
+        ],
+        "min": [
+          353.0,
+          -127.0,
+          -62.00000000000001
+        ]
+      },
+      "catalog_part_no": "61500030009GFT",
+      "center_mm": [
+        375.0000000000001,
+        -46.71583794725285,
+        58.827613705977406
+      ],
+      "id": "e64b3deebfe642f59a6d6c365b99cd77",
+      "kind": "connecting_rod",
+      "mass_kg": 3.5860255896537057,
+      "material": "steel-reference",
+      "name": "Connecting rod 1",
+      "revision_id": "be9d84d5e8d04b858f9f30769b89d2ee",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 456818.5464527017
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          395.0,
+          -21.5,
+          43.50000000000001
+        ],
+        "min": [
+          355.0,
+          -108.5,
+          -43.5
+        ]
+      },
+      "catalog_part_no": "VG1560037033",
+      "center_mm": [
+        374.99999999999983,
+        -65.00000000000004,
+        -2.683316079661644e-13
+      ],
+      "id": "fe26c950e80e4eff921e01dd2df52678",
+      "kind": "shaft",
+      "mass_kg": 0.20434274216178203,
+      "material": "steel-reference",
+      "name": "Rod bearing 1",
+      "revision_id": "e4582cc572e54bef89e6709cef67ec99",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 26030.922568379872
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          437.90000010000006,
+          62.9000001,
+          289.13149999999996
+        ],
+        "min": [
+          312.0999999,
+          -62.9000001,
+          149.1314999
+        ]
+      },
+      "catalog_part_no": "VG1560037011A",
+      "center_mm": [
+        375.0199653916208,
+        0.060869797723963684,
+        234.48837670054363
+      ],
+      "id": "d9256c507f724f6c81dd6fb6cb9e820d",
+      "kind": "piston",
+      "mass_kg": 2.2240496789472375,
+      "material": "aluminum-casting-reference",
+      "name": "Piston 1",
+      "revision_id": "33bcc4d33b4341c78e858819cdd2f01f",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 829869.2831892681
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          427.0,
+          26.0,
+          235.1315
+        ],
+        "min": [
+          323.0,
+          -26.0,
+          183.1315
+        ]
+      },
+      "catalog_part_no": "VG1560030013",
+      "center_mm": [
+        374.99999999999994,
+        -3.502547339977669e-16,
+        209.1315
+      ],
+      "id": "f42e0f0c31f940a4a44a73334ccce9c5",
+      "kind": "shaft",
+      "mass_kg": 1.2835202195514002,
+      "material": "steel-reference",
+      "name": "Piston pin 1",
+      "revision_id": "6a31230e0e2444f68a6cb4f178e4c476",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 163505.7604524075
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          448.0,
+          132.0,
+          365.2
+        ],
+        "min": [
+          302.0,
+          -115.0,
+          364.0
+        ]
+      },
+      "catalog_part_no": "VG1500040065",
+      "center_mm": [
+        375.0000000000001,
+        11.935238880858844,
+        364.59999999999985
+      ],
+      "id": "734ec5c9f38341ba8c5879aef85e18d2",
+      "kind": "head_gasket",
+      "mass_kg": 0.20614720797797007,
+      "material": "steel-reference",
+      "name": "Head gasket 1",
+      "revision_id": "a7bdddcd849241b2bafe9cbf0244d0cb",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 26260.790825218763
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          448.0,
+          132.0,
+          485.2000001
+        ],
+        "min": [
+          302.0,
+          -115.0000001,
+          365.19999989999997
+        ]
+      },
+      "catalog_part_no": "161560040058FT",
+      "center_mm": [
+        375.583962681261,
+        13.290700382502845,
+        426.66194036575456
+      ],
+      "id": "31bf3d51750d4139b17260a7af082ef3",
+      "kind": "cylinder_head",
+      "mass_kg": 26.67620147338612,
+      "material": "cast-iron-reference",
+      "name": "Cylinder head 1",
+      "revision_id": "b452908ebeb3471b815b0970bef797b0",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 3705027.9824147383
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          421.0,
+          128.0,
+          570.2
+        ],
+        "min": [
+          329.0,
+          -110.0,
+          485.2
+        ]
+      },
+      "catalog_part_no": "VG14040065A",
+      "center_mm": [
+        375.00000000000074,
+        9.000000000000016,
+        538.2652173913051
+      ],
+      "id": "92368311b7d74f08a744bddc1c95af78",
+      "kind": "valve_cover",
+      "mass_kg": 0.7998480000000002,
+      "material": "al6061-t6",
+      "name": "Valve cover 1",
+      "revision_id": "02ea14ea40a14eb387797520c64ba56e",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 296240.0
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          387.5,
+          28.5,
+          535.2
+        ],
+        "min": [
+          362.5,
+          3.5,
+          365.7
+        ]
+      },
+      "catalog_part_no": "VG1560080276",
+      "center_mm": [
+        375.0,
+        15.999999999999996,
+        467.06869441444036
+      ],
+      "id": "1030113295af4f86b82fcb333c887e33",
+      "kind": "shaft",
+      "mass_kg": 0.519992092405293,
+      "material": "steel-reference",
+      "name": "Injector 1",
+      "revision_id": "5ffc24e604a54638a3c2a0536d1c8be1",
+      "subsystem": "fuel_system",
+      "visible": true,
+      "volume_mm3": 66241.03087965517
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          390.0,
+          71.0,
+          556.2
+        ],
+        "min": [
+          360.0,
+          39.0,
+          485.2
+        ]
+      },
+      "catalog_part_no": "VG14050119",
+      "center_mm": [
+        375.00000000000006,
+        55.0,
+        516.7389146407173
+      ],
+      "id": "68b374ba0e404d01a8c976cec4c2af80",
+      "kind": "rocker_pedestal",
+      "mass_kg": 0.4078951955312513,
+      "material": "cast-iron-reference",
+      "name": "Rocker pedestal 1",
+      "revision_id": "068ce5b352a24c159872c459de6f6983",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 56652.11049045167
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          415.0,
+          66.0,
+          551.2
+        ],
+        "min": [
+          335.0,
+          44.0,
+          529.2
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        375.0,
+        54.99999999999999,
+        540.2
+      ],
+      "id": "715061a3cf8449d5a5617ed065a723c3",
+      "kind": "shaft",
+      "mass_kg": 0.23872334256098127,
+      "material": "steel-reference",
+      "name": "Rocker shaft 1",
+      "revision_id": "177beb762cd14a299c387a5d9068351c",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30410.616886749216
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          325.00000000000006,
+          -49.29829407782822,
+          497.2
+        ],
+        "min": [
+          302.99999999999994,
+          -74.70170592217178,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        314.00000000000006,
+        -62.00000000000001,
+        401.35525812844344
+      ],
+      "id": "8fbc144c31764b93a359782071a680ce",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 1.1",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          447.00000000000006,
+          -49.29829407782822,
+          497.2
+        ],
+        "min": [
+          424.99999999999994,
+          -74.70170592217178,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        436.00000000000006,
+        -62.00000000000001,
+        401.35525812844344
+      ],
+      "id": "e5e3da8aaff74a13afb14cd50aa05f3b",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 1.2",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          325.00000000000006,
+          72.70170592217178,
+          497.2
+        ],
+        "min": [
+          302.99999999999994,
+          47.29829407782822,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        313.99999999999994,
+        60.0,
+        401.3552581284434
+      ],
+      "id": "c9403c3f5d09456abb96d1515e08d0f3",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 1.3",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.916528627604
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          447.00000000000006,
+          72.70170592217178,
+          497.2
+        ],
+        "min": [
+          424.99999999999994,
+          47.29829407782822,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        436.0,
+        60.0,
+        401.3552581284434
+      ],
+      "id": "24dc65bb71a74345bdc16b796312b266",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 1.4",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.916528627604
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          372.0,
+          11.0,
+          527.9
+        ],
+        "min": [
+          322.0,
+          -39.0,
+          366.2
+        ]
+      },
+      "catalog_part_no": "VG1560051001",
+      "center_mm": [
+        347.0000000000001,
+        -13.999999999999998,
+        406.78990097785686
+      ],
+      "id": "f0058cc08da447458ad1cfdc100bcdd6",
+      "kind": "valve",
+      "mass_kg": 0.2105303440767774,
+      "material": "steel-reference",
+      "name": "Intake valve 1",
+      "revision_id": "2d74fd663022491587002f4b55c321a9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 26819.152111691365
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          361.0,
+          129.0,
+          278.1
+        ],
+        "min": [
+          333.0,
+          101.0,
+          228.1
+        ]
+      },
+      "catalog_part_no": "VG1500050032",
+      "center_mm": [
+        346.99999999999994,
+        115.0,
+        252.76896551724138
+      ],
+      "id": "3df5038743f94a768851c35b6419a049",
+      "kind": "tappet",
+      "mass_kg": 0.23839452252990553,
+      "material": "steel-reference",
+      "name": "Intake tappet 1",
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30368.728984701345
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          352.0,
+          120.0,
+          519.0
+        ],
+        "min": [
+          342.0,
+          110.0,
+          276.3
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        347.0,
+        115.0,
+        397.65
+      ],
+      "id": "137beb59f3e749ac8c9491468ecb5c5c",
+      "kind": "shaft",
+      "mass_kg": 0.14963366539140016,
+      "material": "steel-reference",
+      "name": "Intake pushrod 1",
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 19061.61342565607
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          355.0,
+          120.0,
+          558.2
+        ],
+        "min": [
+          339.0,
+          -26.0,
+          522.2
+        ]
+      },
+      "catalog_part_no": "VG14050048",
+      "center_mm": [
+        347.00000000000216,
+        45.22220247114988,
+        540.0005350215623
+      ],
+      "id": "6288692d267a435bb5598c8a73968b51",
+      "kind": "rocker_arm",
+      "mass_kg": 0.3330508919098547,
+      "material": "steel-reference",
+      "name": "Intake rocker 1",
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 42426.86521144647
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          425.0,
+          8.0,
+          527.9
+        ],
+        "min": [
+          381.0,
+          -36.0,
+          366.2
+        ]
+      },
+      "catalog_part_no": "VG1560050041",
+      "center_mm": [
+        403.0,
+        -13.999999999999998,
+        413.32839429938286
+      ],
+      "id": "c72f534aad6246a9a932f41049ebec60",
+      "kind": "valve",
+      "mass_kg": 0.17754502177626583,
+      "material": "steel-reference",
+      "name": "Exhaust valve 1",
+      "revision_id": "cce6385b6877478ab533a6fbfbb9d89d",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 22617.20022627588
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          417.0,
+          129.0,
+          278.1
+        ],
+        "min": [
+          389.0,
+          101.0,
+          228.1
+        ]
+      },
+      "catalog_part_no": "VG1500050032",
+      "center_mm": [
+        403.0,
+        115.0,
+        252.76896551724138
+      ],
+      "id": "3c5686e2b2824709865eac634549fe84",
+      "kind": "tappet",
+      "mass_kg": 0.23839452252990553,
+      "material": "steel-reference",
+      "name": "Exhaust tappet 1",
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30368.728984701345
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          408.0,
+          120.0,
+          519.0
+        ],
+        "min": [
+          398.0,
+          110.0,
+          276.3
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        403.00000000000006,
+        115.0,
+        397.65
+      ],
+      "id": "60c353cc10b5461e86f7453e59bd8bab",
+      "kind": "shaft",
+      "mass_kg": 0.14963366539140016,
+      "material": "steel-reference",
+      "name": "Exhaust pushrod 1",
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 19061.61342565607
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          411.0,
+          120.0,
+          558.2
+        ],
+        "min": [
+          395.0,
+          -26.0,
+          522.2
+        ]
+      },
+      "catalog_part_no": "VG14050049",
+      "center_mm": [
+        403.00000000000216,
+        45.22220247114988,
+        540.0005350215623
+      ],
+      "id": "9dd14a8f2b5f48448a3d7551c912c372",
+      "kind": "rocker_arm",
+      "mass_kg": 0.3330508919098547,
+      "material": "steel-reference",
+      "name": "Exhaust rocker 1",
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 42426.86521144647
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          295.0,
+          70.0,
+          364.0
+        ],
+        "min": [
+          155.0,
+          -70.0,
+          124.0
+        ]
+      },
+      "catalog_part_no": "VG1540010006",
+      "center_mm": [
+        225.00000000000034,
+        7.547074153841902e-14,
+        251.2354557947779
+      ],
+      "id": "e805d5e8c6214eed98238a93b8449736",
+      "kind": "cylinder_liner",
+      "mass_kg": 1.4813489007618863,
+      "material": "cast-iron-reference",
+      "name": "Cylinder liner 2",
+      "revision_id": "2438a53c411042c4a78edf2c27c78552",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 205742.90288359532
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          247.0,
+          94.5,
+          306.8667449641934
+        ],
+        "min": [
+          203.0,
+          -33.999998442424605,
+          -5.708300000000008
+        ]
+      },
+      "catalog_part_no": "61500030009GFT",
+      "center_mm": [
+        224.99999999999997,
+        23.357919481159865,
+        117.2131336674529
+      ],
+      "id": "e172fdd1246843d3a777ef6984bad19e",
+      "kind": "connecting_rod",
+      "mass_kg": 3.5860255896537057,
+      "material": "steel-reference",
+      "name": "Connecting rod 2",
+      "revision_id": "be9d84d5e8d04b858f9f30769b89d2ee",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 456818.5464527013
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          245.0,
+          76.0,
+          99.7917
+        ],
+        "min": [
+          205.0,
+          -11.0,
+          12.791699999999999
+        ]
+      },
+      "catalog_part_no": "VG1560037033",
+      "center_mm": [
+        224.99999999999997,
+        32.499999999999986,
+        56.29169999999966
+      ],
+      "id": "9660e9558adb44c8825a1e0522e65e6e",
+      "kind": "shaft",
+      "mass_kg": 0.20434274216178203,
+      "material": "steel-reference",
+      "name": "Rod bearing 2",
+      "revision_id": "e4582cc572e54bef89e6709cef67ec99",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 26030.922568379843
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          287.9000001,
+          62.9000001,
+          352.8667
+        ],
+        "min": [
+          162.0999999,
+          -62.9000001,
+          212.8666999
+        ]
+      },
+      "catalog_part_no": "VG1560037011A",
+      "center_mm": [
+        225.0199653916208,
+        0.06086979772396976,
+        298.22357670054384
+      ],
+      "id": "6e78c65e5f2944d7a4f390fc60944420",
+      "kind": "piston",
+      "mass_kg": 2.2240496789472375,
+      "material": "aluminum-casting-reference",
+      "name": "Piston 2",
+      "revision_id": "33bcc4d33b4341c78e858819cdd2f01f",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 829869.283189268
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          277.0,
+          26.0,
+          298.8667
+        ],
+        "min": [
+          173.0,
+          -26.0,
+          246.86669999999998
+        ]
+      },
+      "catalog_part_no": "VG1560030013",
+      "center_mm": [
+        224.99999999999994,
+        -1.1999209189163868e-15,
+        272.86669999999987
+      ],
+      "id": "61efa8e699da448e893a8b050f9842db",
+      "kind": "shaft",
+      "mass_kg": 1.2835202195514002,
+      "material": "steel-reference",
+      "name": "Piston pin 2",
+      "revision_id": "6a31230e0e2444f68a6cb4f178e4c476",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 163505.7604524075
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          298.0,
+          132.0,
+          365.2
+        ],
+        "min": [
+          152.0,
+          -115.0,
+          364.0
+        ]
+      },
+      "catalog_part_no": "VG1500040065",
+      "center_mm": [
+        225.00000000000006,
+        11.935238880858844,
+        364.59999999999985
+      ],
+      "id": "8c6e6b4a31894b0abe0723c582d2c0df",
+      "kind": "head_gasket",
+      "mass_kg": 0.20614720797797007,
+      "material": "steel-reference",
+      "name": "Head gasket 2",
+      "revision_id": "a7bdddcd849241b2bafe9cbf0244d0cb",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 26260.790825218763
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          298.0,
+          132.0,
+          485.2000001
+        ],
+        "min": [
+          152.0,
+          -115.0000001,
+          365.19999989999997
+        ]
+      },
+      "catalog_part_no": "161560040058FT",
+      "center_mm": [
+        225.58396268126097,
+        13.290700382502845,
+        426.6619403657545
+      ],
+      "id": "893ace9400484523b4ebf82256ba0f1c",
+      "kind": "cylinder_head",
+      "mass_kg": 26.67620147338612,
+      "material": "cast-iron-reference",
+      "name": "Cylinder head 2",
+      "revision_id": "b452908ebeb3471b815b0970bef797b0",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 3705027.9824147383
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          271.0,
+          128.0,
+          570.2
+        ],
+        "min": [
+          179.0,
+          -110.0,
+          485.2
+        ]
+      },
+      "catalog_part_no": "VG14040065A",
+      "center_mm": [
+        225.00000000000003,
+        9.000000000000016,
+        538.2652173913051
+      ],
+      "id": "929c17acc8cf4a0b9972f9e220c4ba5c",
+      "kind": "valve_cover",
+      "mass_kg": 0.7998480000000002,
+      "material": "al6061-t6",
+      "name": "Valve cover 2",
+      "revision_id": "02ea14ea40a14eb387797520c64ba56e",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 296240.0
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          237.5,
+          28.5,
+          535.2
+        ],
+        "min": [
+          212.5,
+          3.5,
+          365.7
+        ]
+      },
+      "catalog_part_no": "VG1560080276",
+      "center_mm": [
+        225.00000000000003,
+        16.0,
+        467.0686944144405
+      ],
+      "id": "48427c27455c4bc082d082cdd598612c",
+      "kind": "shaft",
+      "mass_kg": 0.519992092405293,
+      "material": "steel-reference",
+      "name": "Injector 2",
+      "revision_id": "5ffc24e604a54638a3c2a0536d1c8be1",
+      "subsystem": "fuel_system",
+      "visible": true,
+      "volume_mm3": 66241.03087965517
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          240.0,
+          71.0,
+          556.2
+        ],
+        "min": [
+          210.0,
+          39.0,
+          485.2
+        ]
+      },
+      "catalog_part_no": "VG14050119",
+      "center_mm": [
+        224.99999999999994,
+        55.0,
+        516.7389146407173
+      ],
+      "id": "d37918ba2dae4391b5a4cfe05ea83054",
+      "kind": "rocker_pedestal",
+      "mass_kg": 0.4078951955312513,
+      "material": "cast-iron-reference",
+      "name": "Rocker pedestal 2",
+      "revision_id": "068ce5b352a24c159872c459de6f6983",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 56652.11049045167
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          265.0,
+          66.0,
+          551.2
+        ],
+        "min": [
+          185.0,
+          44.0,
+          529.2
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        225.0,
+        54.99999999999999,
+        540.2
+      ],
+      "id": "c42bdf51a7774c3ca9f9748d83d50a06",
+      "kind": "shaft",
+      "mass_kg": 0.23872334256098127,
+      "material": "steel-reference",
+      "name": "Rocker shaft 2",
+      "revision_id": "177beb762cd14a299c387a5d9068351c",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30410.616886749216
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          175.00000000000003,
+          -49.29829407782822,
+          497.2
+        ],
+        "min": [
+          152.99999999999997,
+          -74.70170592217178,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        164.0,
+        -61.99999999999999,
+        401.3552581284434
+      ],
+      "id": "6221211416ff46308b88ee33b81fa04b",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 2.1",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          297.00000000000006,
+          -49.29829407782822,
+          497.2
+        ],
+        "min": [
+          274.99999999999994,
+          -74.70170592217178,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        286.0,
+        -62.00000000000001,
+        401.35525812844344
+      ],
+      "id": "da9fef6a3d5646f8ace8f57292e3df5f",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 2.2",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          175.00000000000003,
+          72.70170592217178,
+          497.2
+        ],
+        "min": [
+          152.99999999999997,
+          47.29829407782822,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        164.0,
+        60.00000000000001,
+        401.35525812844344
+      ],
+      "id": "d9065f12ba914f18a1f3adfc043003fc",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 2.3",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          297.00000000000006,
+          72.70170592217178,
+          497.2
+        ],
+        "min": [
+          274.99999999999994,
+          47.29829407782822,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        285.99999999999994,
+        60.0,
+        401.3552581284434
+      ],
+      "id": "5d244f9c88f54375bff9d4d852aa7ea2",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 2.4",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.916528627604
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          222.0,
+          11.0,
+          527.9
+        ],
+        "min": [
+          172.0,
+          -39.0,
+          366.2
+        ]
+      },
+      "catalog_part_no": "VG1560051001",
+      "center_mm": [
+        197.0,
+        -14.0,
+        406.78990097785686
+      ],
+      "id": "0177bdf83ecb4fcdb68ca8ca6c030b3b",
+      "kind": "valve",
+      "mass_kg": 0.2105303440767774,
+      "material": "steel-reference",
+      "name": "Intake valve 2",
+      "revision_id": "2d74fd663022491587002f4b55c321a9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 26819.152111691365
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          211.0,
+          129.0,
+          278.1
+        ],
+        "min": [
+          183.0,
+          101.0,
+          228.1
+        ]
+      },
+      "catalog_part_no": "VG1500050032",
+      "center_mm": [
+        197.00000000000003,
+        115.0,
+        252.76896551724138
+      ],
+      "id": "23a1afb55b224ff682c880f9b0e298dd",
+      "kind": "tappet",
+      "mass_kg": 0.23839452252990553,
+      "material": "steel-reference",
+      "name": "Intake tappet 2",
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30368.72898470134
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          202.0,
+          120.0,
+          519.0
+        ],
+        "min": [
+          192.0,
+          110.0,
+          276.3
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        197.0,
+        115.0,
+        397.65000000000003
+      ],
+      "id": "2eb01695fdad4fc090256084a9753694",
+      "kind": "shaft",
+      "mass_kg": 0.14963366539140016,
+      "material": "steel-reference",
+      "name": "Intake pushrod 2",
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 19061.613425656076
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          205.0,
+          120.0,
+          558.2
+        ],
+        "min": [
+          189.0,
+          -26.0,
+          522.2
+        ]
+      },
+      "catalog_part_no": "VG14050048",
+      "center_mm": [
+        197.0000000000021,
+        45.22220247114988,
+        540.0005350215623
+      ],
+      "id": "9c3385f99be4464091b5d371321922e0",
+      "kind": "rocker_arm",
+      "mass_kg": 0.3330508919098547,
+      "material": "steel-reference",
+      "name": "Intake rocker 2",
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 42426.86521144647
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          275.0,
+          8.0,
+          524.9089
+        ],
+        "min": [
+          231.0,
+          -36.0,
+          363.2089
+        ]
+      },
+      "catalog_part_no": "VG1560050041",
+      "center_mm": [
+        253.0,
+        -13.999999999999998,
+        410.3372942993829
+      ],
+      "id": "ff507383421e4dcf981f0050e031ffe7",
+      "kind": "valve",
+      "mass_kg": 0.17754502177626583,
+      "material": "steel-reference",
+      "name": "Exhaust valve 2",
+      "revision_id": "cce6385b6877478ab533a6fbfbb9d89d",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 22617.200226275865
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          267.0,
+          129.0,
+          280.98
+        ],
+        "min": [
+          239.0,
+          101.0,
+          230.98
+        ]
+      },
+      "catalog_part_no": "VG1500050032",
+      "center_mm": [
+        253.0,
+        114.99999999999999,
+        255.64896551724135
+      ],
+      "id": "4edb3d6f284d47f182d2508ffdbd4a5c",
+      "kind": "tappet",
+      "mass_kg": 0.23839452252990553,
+      "material": "steel-reference",
+      "name": "Exhaust tappet 2",
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30368.728984701345
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          258.0,
+          120.0,
+          521.88
+        ],
+        "min": [
+          248.0,
+          110.0,
+          279.18
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        252.99999999999997,
+        115.0,
+        400.53000000000003
+      ],
+      "id": "f9617a204e54401c9abbeed4aaf1bd84",
+      "kind": "shaft",
+      "mass_kg": 0.14963366539140016,
+      "material": "steel-reference",
+      "name": "Exhaust pushrod 2",
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 19061.61342565607
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          261.0,
+          120.68916574279865,
+          558.2
+        ],
+        "min": [
+          245.0,
+          -25.92146934703588,
+          522.2
+        ]
+      },
+      "catalog_part_no": "VG14050049",
+      "center_mm": [
+        253.00000000000207,
+        45.242844610949525,
+        539.5343953825782
+      ],
+      "id": "10dbc78a712c4b9e8e334f31ff518cfd",
+      "kind": "rocker_arm",
+      "mass_kg": 0.3330508919098547,
+      "material": "steel-reference",
+      "name": "Exhaust rocker 2",
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 42426.86521144652
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          145.0,
+          70.0,
+          364.0
+        ],
+        "min": [
+          5.0,
+          -70.0,
+          124.0
+        ]
+      },
+      "catalog_part_no": "VG1540010006",
+      "center_mm": [
+        74.9999999999999,
+        7.069655849663264e-14,
+        251.2354557947779
+      ],
+      "id": "683bed26c77444db89a3e7dec84de643",
+      "kind": "cylinder_liner",
+      "mass_kg": 1.4813489007618863,
+      "material": "cast-iron-reference",
+      "name": "Cylinder liner 3",
+      "revision_id": "2438a53c411042c4a78edf2c27c78552",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 205742.90288359532
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          97.0,
+          94.5,
+          194.28334496419342
+        ],
+        "min": [
+          53.0,
+          -33.999998442424605,
+          -118.2917
+        ]
+      },
+      "catalog_part_no": "61500030009GFT",
+      "center_mm": [
+        75.00000000000003,
+        23.35791948115989,
+        4.6297336674528555
+      ],
+      "id": "7f4894290c68454286d00c1cfd7dcc23",
+      "kind": "connecting_rod",
+      "mass_kg": 3.5860255896537057,
+      "material": "steel-reference",
+      "name": "Connecting rod 3",
+      "revision_id": "be9d84d5e8d04b858f9f30769b89d2ee",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 456818.5464527013
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          95.0,
+          76.0,
+          -12.791699999999992
+        ],
+        "min": [
+          54.99999999999999,
+          -11.0,
+          -99.79169999999999
+        ]
+      },
+      "catalog_part_no": "VG1560037033",
+      "center_mm": [
+        75.00000000000006,
+        32.499999999999986,
+        -56.29170000000023
+      ],
+      "id": "933247e0fbd14be58895d94088e0fd8a",
+      "kind": "shaft",
+      "mass_kg": 0.20434274216178203,
+      "material": "steel-reference",
+      "name": "Rod bearing 3",
+      "revision_id": "e4582cc572e54bef89e6709cef67ec99",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 26030.922568379843
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          137.9000001,
+          62.9000001,
+          240.2834
+        ],
+        "min": [
+          12.099999900000002,
+          -62.9000001,
+          100.2833999
+        ]
+      },
+      "catalog_part_no": "VG1560037011A",
+      "center_mm": [
+        75.01996539162077,
+        0.06086979772397569,
+        185.64027670054375
+      ],
+      "id": "c42b05d2b7ae4a8f8393d6a005daec5e",
+      "kind": "piston",
+      "mass_kg": 2.2240496789472375,
+      "material": "aluminum-casting-reference",
+      "name": "Piston 3",
+      "revision_id": "33bcc4d33b4341c78e858819cdd2f01f",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 829869.2831892683
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          127.0,
+          26.0,
+          186.2834
+        ],
+        "min": [
+          22.999999999999996,
+          -26.0,
+          134.2834
+        ]
+      },
+      "catalog_part_no": "VG1560030013",
+      "center_mm": [
+        74.99999999999997,
+        -1.5139669071894121e-16,
+        160.2834
+      ],
+      "id": "f356b878c1c944ecaef4e5e23e38a73c",
+      "kind": "shaft",
+      "mass_kg": 1.2835202195514002,
+      "material": "steel-reference",
+      "name": "Piston pin 3",
+      "revision_id": "6a31230e0e2444f68a6cb4f178e4c476",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 163505.76045240753
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          148.0,
+          132.0,
+          365.2
+        ],
+        "min": [
+          2.0,
+          -115.0,
+          364.0
+        ]
+      },
+      "catalog_part_no": "VG1500040065",
+      "center_mm": [
+        75.00000000000006,
+        11.935238880858844,
+        364.59999999999997
+      ],
+      "id": "aa1970fca75e42f599c62156b20c8f58",
+      "kind": "head_gasket",
+      "mass_kg": 0.20614720797797007,
+      "material": "steel-reference",
+      "name": "Head gasket 3",
+      "revision_id": "a7bdddcd849241b2bafe9cbf0244d0cb",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 26260.790825218763
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          148.0,
+          132.0,
+          485.2000001
+        ],
+        "min": [
+          2.0,
+          -115.0000001,
+          365.19999989999997
+        ]
+      },
+      "catalog_part_no": "161560040058FT",
+      "center_mm": [
+        75.58396268126096,
+        13.290700382502845,
+        426.6619403657545
+      ],
+      "id": "f114ac8d9de54c75826edff04821fb52",
+      "kind": "cylinder_head",
+      "mass_kg": 26.67620147338612,
+      "material": "cast-iron-reference",
+      "name": "Cylinder head 3",
+      "revision_id": "b452908ebeb3471b815b0970bef797b0",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 3705027.9824147383
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          121.0,
+          128.0,
+          570.2
+        ],
+        "min": [
+          29.0,
+          -110.0,
+          485.2
+        ]
+      },
+      "catalog_part_no": "VG14040065A",
+      "center_mm": [
+        75.00000000000011,
+        9.000000000000016,
+        538.2652173913051
+      ],
+      "id": "08700626154d4333835e2951c86d132e",
+      "kind": "valve_cover",
+      "mass_kg": 0.7998480000000002,
+      "material": "al6061-t6",
+      "name": "Valve cover 3",
+      "revision_id": "02ea14ea40a14eb387797520c64ba56e",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 296240.0
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          87.5,
+          28.5,
+          535.2
+        ],
+        "min": [
+          62.5,
+          3.5,
+          365.7
+        ]
+      },
+      "catalog_part_no": "VG1560080276",
+      "center_mm": [
+        75.0,
+        16.0,
+        467.0686944144405
+      ],
+      "id": "16e65047417b41ff9c2eda8bbcc531d7",
+      "kind": "shaft",
+      "mass_kg": 0.519992092405293,
+      "material": "steel-reference",
+      "name": "Injector 3",
+      "revision_id": "5ffc24e604a54638a3c2a0536d1c8be1",
+      "subsystem": "fuel_system",
+      "visible": true,
+      "volume_mm3": 66241.03087965517
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          90.0,
+          71.0,
+          556.2
+        ],
+        "min": [
+          60.0,
+          39.0,
+          485.2
+        ]
+      },
+      "catalog_part_no": "VG14050119",
+      "center_mm": [
+        75.0,
+        55.0,
+        516.7389146407173
+      ],
+      "id": "2fe5f841f9f14fccbfc2eb910c150b51",
+      "kind": "rocker_pedestal",
+      "mass_kg": 0.4078951955312513,
+      "material": "cast-iron-reference",
+      "name": "Rocker pedestal 3",
+      "revision_id": "068ce5b352a24c159872c459de6f6983",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 56652.11049045167
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          115.0,
+          66.0,
+          551.2
+        ],
+        "min": [
+          35.0,
+          44.0,
+          529.2
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        75.0,
+        54.99999999999999,
+        540.2
+      ],
+      "id": "3ae3ecb64683498b87bf385bb2a3f553",
+      "kind": "shaft",
+      "mass_kg": 0.23872334256098127,
+      "material": "steel-reference",
+      "name": "Rocker shaft 3",
+      "revision_id": "177beb762cd14a299c387a5d9068351c",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30410.616886749216
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          25.00000000000003,
+          -49.29829407782822,
+          497.2
+        ],
+        "min": [
+          2.99999999999997,
+          -74.70170592217178,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        13.999999999999998,
+        -62.00000000000001,
+        401.35525812844344
+      ],
+      "id": "59b57564ded94c5a9827b9ef17e5dde0",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 3.1",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.91652862759
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          147.00000000000003,
+          -49.29829407782822,
+          497.2
+        ],
+        "min": [
+          124.99999999999997,
+          -74.70170592217178,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        135.99999999999997,
+        -61.99999999999999,
+        401.3552581284434
+      ],
+      "id": "0d05acb2838342f2832864133e8e0589",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 3.2",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          25.00000000000003,
+          72.70170592217178,
+          497.2
+        ],
+        "min": [
+          2.99999999999997,
+          47.29829407782822,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        13.999999999999998,
+        60.0,
+        401.3552581284434
+      ],
+      "id": "26965da915da4733a88a6a0e7128f37c",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 3.3",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          147.00000000000003,
+          72.70170592217178,
+          497.2
+        ],
+        "min": [
+          124.99999999999997,
+          47.29829407782822,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        136.00000000000003,
+        60.00000000000001,
+        401.35525812844344
+      ],
+      "id": "8a58745e6c3c451e87094e3eee534214",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 3.4",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          72.0,
+          11.0,
+          527.8499999999999
+        ],
+        "min": [
+          22.0,
+          -39.0,
+          366.15
+        ]
+      },
+      "catalog_part_no": "VG1560051001",
+      "center_mm": [
+        47.00000000000001,
+        -13.999999999999998,
+        406.73990097785685
+      ],
+      "id": "9610dca0c92148ceac5498de71dcb711",
+      "kind": "valve",
+      "mass_kg": 0.2105303440767774,
+      "material": "steel-reference",
+      "name": "Intake valve 3",
+      "revision_id": "2d74fd663022491587002f4b55c321a9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 26819.152111691365
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          61.0,
+          129.0,
+          278.40459999999996
+        ],
+        "min": [
+          33.0,
+          101.0,
+          228.4046
+        ]
+      },
+      "catalog_part_no": "VG1500050032",
+      "center_mm": [
+        47.00000000000001,
+        115.0,
+        253.07356551724138
+      ],
+      "id": "3e2a6a6a852849a288a8850a5543ebe1",
+      "kind": "tappet",
+      "mass_kg": 0.23839452252990553,
+      "material": "steel-reference",
+      "name": "Intake tappet 3",
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30368.728984701338
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          52.0,
+          120.0,
+          519.3045999999999
+        ],
+        "min": [
+          42.0,
+          110.0,
+          276.6046
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        47.0,
+        115.0,
+        397.95459999999997
+      ],
+      "id": "dc101c22c2884cf8bdb777de209b217e",
+      "kind": "shaft",
+      "mass_kg": 0.14963366539140016,
+      "material": "steel-reference",
+      "name": "Intake pushrod 3",
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 19061.613425656073
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          55.0,
+          120.08033030110506,
+          558.2
+        ],
+        "min": [
+          39.0,
+          -25.99911215437163,
+          522.2
+        ]
+      },
+      "catalog_part_no": "VG14050048",
+      "center_mm": [
+        47.00000000000206,
+        45.223340154624914,
+        539.9509356295235
+      ],
+      "id": "1840808c2fcd4968bea5c7337714ce15",
+      "kind": "rocker_arm",
+      "mass_kg": 0.3330508919098547,
+      "material": "steel-reference",
+      "name": "Intake rocker 3",
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 42426.86521144649
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          125.0,
+          8.0,
+          527.9
+        ],
+        "min": [
+          81.0,
+          -36.0,
+          366.2
+        ]
+      },
+      "catalog_part_no": "VG1560050041",
+      "center_mm": [
+        103.00000000000001,
+        -14.000000000000002,
+        413.32839429938286
+      ],
+      "id": "3b9cd1daa8674945bc506f81169aa9e2",
+      "kind": "valve",
+      "mass_kg": 0.17754502177626583,
+      "material": "steel-reference",
+      "name": "Exhaust valve 3",
+      "revision_id": "cce6385b6877478ab533a6fbfbb9d89d",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 22617.200226275876
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          117.0,
+          129.0,
+          278.1
+        ],
+        "min": [
+          89.0,
+          101.0,
+          228.1
+        ]
+      },
+      "catalog_part_no": "VG1500050032",
+      "center_mm": [
+        103.00000000000001,
+        115.0,
+        252.76896551724138
+      ],
+      "id": "e179df54ea074e04b125c5d41952a7af",
+      "kind": "tappet",
+      "mass_kg": 0.23839452252990553,
+      "material": "steel-reference",
+      "name": "Exhaust tappet 3",
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30368.72898470135
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          108.0,
+          120.0,
+          519.0
+        ],
+        "min": [
+          98.0,
+          110.0,
+          276.3
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        103.0,
+        115.00000000000001,
+        397.65000000000003
+      ],
+      "id": "527247a16d6f456ba80e78b9f49046fc",
+      "kind": "shaft",
+      "mass_kg": 0.14963366539140016,
+      "material": "steel-reference",
+      "name": "Exhaust pushrod 3",
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 19061.613425656073
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          111.0,
+          120.0,
+          558.2
+        ],
+        "min": [
+          95.0,
+          -26.0,
+          522.2
+        ]
+      },
+      "catalog_part_no": "VG14050049",
+      "center_mm": [
+        103.00000000000206,
+        45.22220247114988,
+        540.0005350215622
+      ],
+      "id": "033efee843b64d8387f92a25f27af38e",
+      "kind": "rocker_arm",
+      "mass_kg": 0.3330508919098547,
+      "material": "steel-reference",
+      "name": "Exhaust rocker 3",
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 42426.86521144647
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -5.0,
+          70.0,
+          364.0
+        ],
+        "min": [
+          -145.0,
+          -70.0,
+          124.0
+        ]
+      },
+      "catalog_part_no": "VG1540010006",
+      "center_mm": [
+        -75.00000000000026,
+        8.581480479562283e-14,
+        251.2354557947779
+      ],
+      "id": "c69f7ee0e53b47af88bfc08b9b6b9839",
+      "kind": "cylinder_liner",
+      "mass_kg": 1.4813489007618863,
+      "material": "cast-iron-reference",
+      "name": "Cylinder liner 4",
+      "revision_id": "2438a53c411042c4a78edf2c27c78552",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 205742.90288359532
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -53.0,
+          94.5,
+          194.28334496419342
+        ],
+        "min": [
+          -97.0,
+          -33.999998442424605,
+          -118.2917
+        ]
+      },
+      "catalog_part_no": "61500030009GFT",
+      "center_mm": [
+        -74.99999999999996,
+        23.35791948115989,
+        4.6297336674528555
+      ],
+      "id": "a316a7840f294515bda6a2982949cd23",
+      "kind": "connecting_rod",
+      "mass_kg": 3.5860255896537057,
+      "material": "steel-reference",
+      "name": "Connecting rod 4",
+      "revision_id": "be9d84d5e8d04b858f9f30769b89d2ee",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 456818.5464527013
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -54.99999999999999,
+          76.0,
+          -12.791699999999992
+        ],
+        "min": [
+          -95.0,
+          -11.0,
+          -99.79169999999999
+        ]
+      },
+      "catalog_part_no": "VG1560037033",
+      "center_mm": [
+        -75.00000000000006,
+        32.499999999999986,
+        -56.29170000000023
+      ],
+      "id": "6a16815062494b8b8f9ec1236eaee2c2",
+      "kind": "shaft",
+      "mass_kg": 0.20434274216178203,
+      "material": "steel-reference",
+      "name": "Rod bearing 4",
+      "revision_id": "e4582cc572e54bef89e6709cef67ec99",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 26030.922568379843
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -12.099999900000002,
+          62.9000001,
+          240.2834
+        ],
+        "min": [
+          -137.9000001,
+          -62.9000001,
+          100.2833999
+        ]
+      },
+      "catalog_part_no": "VG1560037011A",
+      "center_mm": [
+        -74.98003460837926,
+        0.0608697977239707,
+        185.64027670054375
+      ],
+      "id": "1202b7be97504babada94ea376f5d563",
+      "kind": "piston",
+      "mass_kg": 2.2240496789472375,
+      "material": "aluminum-casting-reference",
+      "name": "Piston 4",
+      "revision_id": "33bcc4d33b4341c78e858819cdd2f01f",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 829869.2831892682
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -22.999999999999996,
+          26.0,
+          186.2834
+        ],
+        "min": [
+          -127.0,
+          -26.0,
+          134.2834
+        ]
+      },
+      "catalog_part_no": "VG1560030013",
+      "center_mm": [
+        -74.99999999999997,
+        -1.5139669071894121e-16,
+        160.2834
+      ],
+      "id": "a75aa47d3a96426db9eef924798f5474",
+      "kind": "shaft",
+      "mass_kg": 1.2835202195514002,
+      "material": "steel-reference",
+      "name": "Piston pin 4",
+      "revision_id": "6a31230e0e2444f68a6cb4f178e4c476",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 163505.76045240753
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -2.0,
+          132.0,
+          365.2
+        ],
+        "min": [
+          -148.0,
+          -115.0,
+          364.0
+        ]
+      },
+      "catalog_part_no": "VG1500040065",
+      "center_mm": [
+        -74.99999999999999,
+        11.935238880858844,
+        364.59999999999997
+      ],
+      "id": "4e6c1a1417ed4ddc9926ad37ee134cba",
+      "kind": "head_gasket",
+      "mass_kg": 0.20614720797797007,
+      "material": "steel-reference",
+      "name": "Head gasket 4",
+      "revision_id": "a7bdddcd849241b2bafe9cbf0244d0cb",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 26260.790825218763
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -2.0,
+          132.0,
+          485.2000001
+        ],
+        "min": [
+          -148.0,
+          -115.0000001,
+          365.19999989999997
+        ]
+      },
+      "catalog_part_no": "161560040058FT",
+      "center_mm": [
+        -74.41603731873901,
+        13.290700382502843,
+        426.6619403657545
+      ],
+      "id": "4a40b8dcd3424956bce3f6066d4cbf9c",
+      "kind": "cylinder_head",
+      "mass_kg": 26.67620147338612,
+      "material": "cast-iron-reference",
+      "name": "Cylinder head 4",
+      "revision_id": "b452908ebeb3471b815b0970bef797b0",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 3705027.9824147387
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -29.0,
+          128.0,
+          570.2
+        ],
+        "min": [
+          -121.0,
+          -110.0,
+          485.2
+        ]
+      },
+      "catalog_part_no": "VG14040065A",
+      "center_mm": [
+        -74.99999999999999,
+        9.000000000000016,
+        538.2652173913051
+      ],
+      "id": "b98f69c7d67b4fa2bc1dd3306b1976b3",
+      "kind": "valve_cover",
+      "mass_kg": 0.7998480000000002,
+      "material": "al6061-t6",
+      "name": "Valve cover 4",
+      "revision_id": "02ea14ea40a14eb387797520c64ba56e",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 296240.0
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -62.5,
+          28.5,
+          535.2
+        ],
+        "min": [
+          -87.5,
+          3.5,
+          365.7
+        ]
+      },
+      "catalog_part_no": "VG1560080276",
+      "center_mm": [
+        -75.0,
+        16.0,
+        467.0686944144405
+      ],
+      "id": "9a4e03356c374cc2a35c9203ea309a64",
+      "kind": "shaft",
+      "mass_kg": 0.519992092405293,
+      "material": "steel-reference",
+      "name": "Injector 4",
+      "revision_id": "5ffc24e604a54638a3c2a0536d1c8be1",
+      "subsystem": "fuel_system",
+      "visible": true,
+      "volume_mm3": 66241.03087965517
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -60.0,
+          71.0,
+          556.2
+        ],
+        "min": [
+          -90.0,
+          39.0,
+          485.2
+        ]
+      },
+      "catalog_part_no": "VG14050119",
+      "center_mm": [
+        -74.99999999999999,
+        55.0,
+        516.7389146407173
+      ],
+      "id": "3b685ddf5bda40f7b04499085fc5ad29",
+      "kind": "rocker_pedestal",
+      "mass_kg": 0.4078951955312513,
+      "material": "cast-iron-reference",
+      "name": "Rocker pedestal 4",
+      "revision_id": "068ce5b352a24c159872c459de6f6983",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 56652.11049045167
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -35.0,
+          66.0,
+          551.2
+        ],
+        "min": [
+          -115.0,
+          44.0,
+          529.2
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -74.99999999999999,
+        54.99999999999999,
+        540.2
+      ],
+      "id": "bcb69b03f412409a8d5da39d81a1b6af",
+      "kind": "shaft",
+      "mass_kg": 0.23872334256098127,
+      "material": "steel-reference",
+      "name": "Rocker shaft 4",
+      "revision_id": "177beb762cd14a299c387a5d9068351c",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30410.616886749216
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -124.99999999999997,
+          -49.29829407782822,
+          497.2
+        ],
+        "min": [
+          -147.00000000000003,
+          -74.70170592217178,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        -135.99999999999997,
+        -61.99999999999999,
+        401.3552581284434
+      ],
+      "id": "4fc9b2ab902e49079135dc5964401fc0",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 4.1",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -2.99999999999997,
+          -49.29829407782822,
+          497.2
+        ],
+        "min": [
+          -25.00000000000003,
+          -74.70170592217178,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        -14.000000000000002,
+        -61.99999999999999,
+        401.3552581284434
+      ],
+      "id": "70b9f1f65a324298a602b4d458dc1935",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 4.2",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -124.99999999999997,
+          72.70170592217178,
+          497.2
+        ],
+        "min": [
+          -147.00000000000003,
+          47.29829407782822,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        -136.0,
+        60.00000000000001,
+        401.35525812844344
+      ],
+      "id": "f217f9e4422d4466ac09c5bd3d27426a",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 4.3",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -2.99999999999997,
+          72.70170592217178,
+          497.2
+        ],
+        "min": [
+          -25.00000000000003,
+          47.29829407782822,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        -14.000000000000002,
+        60.0,
+        401.3552581284434
+      ],
+      "id": "fb178400426a4a8fb079f78bcd0ba703",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 4.4",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -78.0,
+          11.0,
+          527.9
+        ],
+        "min": [
+          -128.0,
+          -39.0,
+          366.2
+        ]
+      },
+      "catalog_part_no": "VG1560051001",
+      "center_mm": [
+        -103.00000000000001,
+        -13.999999999999998,
+        406.7899009778568
+      ],
+      "id": "bce66ece07d5473b8ec7492730579f18",
+      "kind": "valve",
+      "mass_kg": 0.2105303440767774,
+      "material": "steel-reference",
+      "name": "Intake valve 4",
+      "revision_id": "2d74fd663022491587002f4b55c321a9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 26819.152111691365
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -89.0,
+          129.0,
+          278.1
+        ],
+        "min": [
+          -117.0,
+          101.0,
+          228.1
+        ]
+      },
+      "catalog_part_no": "VG1500050032",
+      "center_mm": [
+        -103.0,
+        115.0,
+        252.76896551724138
+      ],
+      "id": "b9af8d6b176b4b438c7c4dfddc5d08de",
+      "kind": "tappet",
+      "mass_kg": 0.23839452252990553,
+      "material": "steel-reference",
+      "name": "Intake tappet 4",
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30368.72898470135
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -98.0,
+          120.0,
+          519.0
+        ],
+        "min": [
+          -108.0,
+          110.0,
+          276.3
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -103.00000000000001,
+        115.00000000000001,
+        397.65000000000003
+      ],
+      "id": "b0a79e69511f4f2185f5e599922f0f0f",
+      "kind": "shaft",
+      "mass_kg": 0.14963366539140016,
+      "material": "steel-reference",
+      "name": "Intake pushrod 4",
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 19061.613425656073
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -95.0,
+          120.0,
+          558.2
+        ],
+        "min": [
+          -111.0,
+          -26.0,
+          522.2
+        ]
+      },
+      "catalog_part_no": "VG14050048",
+      "center_mm": [
+        -102.99999999999795,
+        45.22220247114988,
+        540.0005350215622
+      ],
+      "id": "319259d3750b442db1198dec6a39a800",
+      "kind": "rocker_arm",
+      "mass_kg": 0.3330508919098547,
+      "material": "steel-reference",
+      "name": "Intake rocker 4",
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 42426.86521144647
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -25.0,
+          8.0,
+          520.6433999999999
+        ],
+        "min": [
+          -69.0,
+          -36.0,
+          358.9434
+        ]
+      },
+      "catalog_part_no": "VG1560050041",
+      "center_mm": [
+        -47.0,
+        -13.999999999999996,
+        406.0717942993829
+      ],
+      "id": "ae5a5ae74f2040c084fa580e8e9167ae",
+      "kind": "valve",
+      "mass_kg": 0.17754502177626583,
+      "material": "steel-reference",
+      "name": "Exhaust valve 4",
+      "revision_id": "cce6385b6877478ab533a6fbfbb9d89d",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 22617.20022627588
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -33.0,
+          129.0,
+          284.7672
+        ],
+        "min": [
+          -61.0,
+          101.0,
+          234.7672
+        ]
+      },
+      "catalog_part_no": "VG1500050032",
+      "center_mm": [
+        -46.99999999999998,
+        115.0,
+        259.4361655172414
+      ],
+      "id": "ec5a08c6f1614b0d9428eb939198c94d",
+      "kind": "tappet",
+      "mass_kg": 0.23839452252990553,
+      "material": "steel-reference",
+      "name": "Exhaust tappet 4",
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30368.728984701345
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -42.0,
+          120.0,
+          525.6672
+        ],
+        "min": [
+          -52.0,
+          110.0,
+          282.9672
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -47.0,
+        115.0,
+        404.31719999999996
+      ],
+      "id": "7c1a73ad339b4e61ae9e5a2359b3bb76",
+      "kind": "shaft",
+      "mass_kg": 0.14963366539140016,
+      "material": "steel-reference",
+      "name": "Exhaust pushrod 4",
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 19061.613425656076
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -39.0,
+          121.36128316507266,
+          558.2
+        ],
+        "min": [
+          -55.0,
+          -25.584967254455847,
+          520.6433958218511
+        ]
+      },
+      "catalog_part_no": "VG14050049",
+      "center_mm": [
+        -46.999999999997925,
+        45.30286021090684,
+        538.9309094974758
+      ],
+      "id": "cef42661d4ba4c3eb66b16578d4c93de",
+      "kind": "rocker_arm",
+      "mass_kg": 0.3330508919098547,
+      "material": "steel-reference",
+      "name": "Exhaust rocker 4",
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 42426.86521144647
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -155.0,
+          70.0,
+          364.0
+        ],
+        "min": [
+          -295.0,
+          -70.0,
+          124.0
+        ]
+      },
+      "catalog_part_no": "VG1540010006",
+      "center_mm": [
+        -225.00000000000054,
+        6.305786562977458e-14,
+        251.23545579477786
+      ],
+      "id": "7bcb76da9b5a4cdcb1c807f8ba996dbb",
+      "kind": "cylinder_liner",
+      "mass_kg": 1.4813489007618863,
+      "material": "cast-iron-reference",
+      "name": "Cylinder liner 5",
+      "revision_id": "2438a53c411042c4a78edf2c27c78552",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 205742.90288359486
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -203.0,
+          94.5,
+          306.8667449641934
+        ],
+        "min": [
+          -247.0,
+          -33.999998442424605,
+          -5.708300000000008
+        ]
+      },
+      "catalog_part_no": "61500030009GFT",
+      "center_mm": [
+        -224.99999999999997,
+        23.357919481159865,
+        117.2131336674529
+      ],
+      "id": "2cdaf319f3d34fb598b060369c0d343d",
+      "kind": "connecting_rod",
+      "mass_kg": 3.5860255896537057,
+      "material": "steel-reference",
+      "name": "Connecting rod 5",
+      "revision_id": "be9d84d5e8d04b858f9f30769b89d2ee",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 456818.5464527013
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -205.0,
+          76.0,
+          99.7917
+        ],
+        "min": [
+          -245.0,
+          -11.0,
+          12.791699999999999
+        ]
+      },
+      "catalog_part_no": "VG1560037033",
+      "center_mm": [
+        -224.99999999999997,
+        32.499999999999986,
+        56.29169999999966
+      ],
+      "id": "1697720e1f84491d851288d34c5b87ce",
+      "kind": "shaft",
+      "mass_kg": 0.20434274216178203,
+      "material": "steel-reference",
+      "name": "Rod bearing 5",
+      "revision_id": "e4582cc572e54bef89e6709cef67ec99",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 26030.922568379843
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -162.09999989999997,
+          62.9000001,
+          352.8667
+        ],
+        "min": [
+          -287.9000001,
+          -62.9000001,
+          212.8666999
+        ]
+      },
+      "catalog_part_no": "VG1560037011A",
+      "center_mm": [
+        -224.9800346083792,
+        0.06086979772397169,
+        298.22357670054356
+      ],
+      "id": "141c0ba62d1246d887b75301d2916f65",
+      "kind": "piston",
+      "mass_kg": 2.2240496789472375,
+      "material": "aluminum-casting-reference",
+      "name": "Piston 5",
+      "revision_id": "33bcc4d33b4341c78e858819cdd2f01f",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 829869.2831892689
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -173.0,
+          26.0,
+          298.8667
+        ],
+        "min": [
+          -277.0,
+          -26.0,
+          246.86669999999998
+        ]
+      },
+      "catalog_part_no": "VG1560030013",
+      "center_mm": [
+        -224.99999999999994,
+        -1.1999209189163868e-15,
+        272.86669999999987
+      ],
+      "id": "575472ed5b9a46549b83da9ea0fdc480",
+      "kind": "shaft",
+      "mass_kg": 1.2835202195514002,
+      "material": "steel-reference",
+      "name": "Piston pin 5",
+      "revision_id": "6a31230e0e2444f68a6cb4f178e4c476",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 163505.7604524075
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -152.0,
+          132.0,
+          365.2
+        ],
+        "min": [
+          -298.0,
+          -115.0,
+          364.0
+        ]
+      },
+      "catalog_part_no": "VG1500040065",
+      "center_mm": [
+        -224.99999999999994,
+        11.935238880858842,
+        364.59999999999985
+      ],
+      "id": "88ea095133514e2880faa4ff559e5564",
+      "kind": "head_gasket",
+      "mass_kg": 0.20614720797797007,
+      "material": "steel-reference",
+      "name": "Head gasket 5",
+      "revision_id": "a7bdddcd849241b2bafe9cbf0244d0cb",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 26260.790825218763
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -152.0,
+          132.0,
+          485.2000001
+        ],
+        "min": [
+          -298.0,
+          -115.0000001,
+          365.19999989999997
+        ]
+      },
+      "catalog_part_no": "161560040058FT",
+      "center_mm": [
+        -224.41603731873906,
+        13.290700382502845,
+        426.6619403657545
+      ],
+      "id": "75a6f05f449c481f8bd12d31a95c42da",
+      "kind": "cylinder_head",
+      "mass_kg": 26.67620147338612,
+      "material": "cast-iron-reference",
+      "name": "Cylinder head 5",
+      "revision_id": "b452908ebeb3471b815b0970bef797b0",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 3705027.9824147383
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -179.0,
+          128.0,
+          570.2
+        ],
+        "min": [
+          -271.0,
+          -110.0,
+          485.2
+        ]
+      },
+      "catalog_part_no": "VG14040065A",
+      "center_mm": [
+        -225.00000000000034,
+        9.000000000000016,
+        538.2652173913051
+      ],
+      "id": "528818ca3888469f8377279054c6e53a",
+      "kind": "valve_cover",
+      "mass_kg": 0.7998480000000002,
+      "material": "al6061-t6",
+      "name": "Valve cover 5",
+      "revision_id": "02ea14ea40a14eb387797520c64ba56e",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 296240.0
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -212.5,
+          28.5,
+          535.2
+        ],
+        "min": [
+          -237.5,
+          3.5,
+          365.7
+        ]
+      },
+      "catalog_part_no": "VG1560080276",
+      "center_mm": [
+        -225.00000000000003,
+        16.0,
+        467.0686944144405
+      ],
+      "id": "37f1ecf2c4d741858e9f0e3707454901",
+      "kind": "shaft",
+      "mass_kg": 0.519992092405293,
+      "material": "steel-reference",
+      "name": "Injector 5",
+      "revision_id": "5ffc24e604a54638a3c2a0536d1c8be1",
+      "subsystem": "fuel_system",
+      "visible": true,
+      "volume_mm3": 66241.03087965517
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -210.0,
+          71.0,
+          556.2
+        ],
+        "min": [
+          -240.0,
+          39.0,
+          485.2
+        ]
+      },
+      "catalog_part_no": "VG14050119",
+      "center_mm": [
+        -224.99999999999997,
+        55.0,
+        516.7389146407173
+      ],
+      "id": "acf9e2ccfaa44dce900ab36090c03f43",
+      "kind": "rocker_pedestal",
+      "mass_kg": 0.4078951955312513,
+      "material": "cast-iron-reference",
+      "name": "Rocker pedestal 5",
+      "revision_id": "068ce5b352a24c159872c459de6f6983",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 56652.11049045167
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -185.0,
+          66.0,
+          551.2
+        ],
+        "min": [
+          -265.0,
+          44.0,
+          529.2
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -225.0,
+        54.99999999999999,
+        540.2
+      ],
+      "id": "f73e35b981404b998245d32fd6a1cec5",
+      "kind": "shaft",
+      "mass_kg": 0.23872334256098127,
+      "material": "steel-reference",
+      "name": "Rocker shaft 5",
+      "revision_id": "177beb762cd14a299c387a5d9068351c",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30410.616886749216
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -274.99999999999994,
+          -49.29829407782822,
+          497.2
+        ],
+        "min": [
+          -297.00000000000006,
+          -74.70170592217178,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        -286.00000000000006,
+        -62.00000000000001,
+        401.35525812844344
+      ],
+      "id": "5e88c53a133d44f39c506cf16042c1fa",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 5.1",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -152.99999999999997,
+          -49.29829407782822,
+          497.2
+        ],
+        "min": [
+          -175.00000000000003,
+          -74.70170592217178,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        -164.0,
+        -61.99999999999999,
+        401.3552581284434
+      ],
+      "id": "6ab8af59d3e44b9eb53eca5fd651ad92",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 5.2",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -274.99999999999994,
+          72.70170592217178,
+          497.2
+        ],
+        "min": [
+          -297.00000000000006,
+          47.29829407782822,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        -286.0,
+        60.0,
+        401.3552581284434
+      ],
+      "id": "8f46a443a64c41b1a831a153cae9b60e",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 5.3",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.916528627604
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -152.99999999999997,
+          72.70170592217178,
+          497.2
+        ],
+        "min": [
+          -175.00000000000003,
+          47.29829407782822,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        -164.0,
+        60.00000000000001,
+        401.35525812844344
+      ],
+      "id": "4ed96adc38774f31826e0efac640d0fc",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 5.4",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -228.0,
+          11.0,
+          527.9
+        ],
+        "min": [
+          -278.0,
+          -39.0,
+          366.2
+        ]
+      },
+      "catalog_part_no": "VG1560051001",
+      "center_mm": [
+        -253.0,
+        -13.999999999999998,
+        406.7899009778568
+      ],
+      "id": "e093698c94ae40f3a257795f8907093a",
+      "kind": "valve",
+      "mass_kg": 0.2105303440767774,
+      "material": "steel-reference",
+      "name": "Intake valve 5",
+      "revision_id": "2d74fd663022491587002f4b55c321a9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 26819.152111691372
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -239.0,
+          129.0,
+          278.1
+        ],
+        "min": [
+          -267.0,
+          101.0,
+          228.1
+        ]
+      },
+      "catalog_part_no": "VG1500050032",
+      "center_mm": [
+        -253.0,
+        115.0,
+        252.76896551724138
+      ],
+      "id": "30dccb22a57b4fe7a13a8f15709d96e4",
+      "kind": "tappet",
+      "mass_kg": 0.23839452252990553,
+      "material": "steel-reference",
+      "name": "Intake tappet 5",
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30368.728984701345
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -248.0,
+          120.0,
+          519.0
+        ],
+        "min": [
+          -258.0,
+          110.0,
+          276.3
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -253.00000000000003,
+        115.0,
+        397.65000000000003
+      ],
+      "id": "5b03d717c2b24f9e961a2c98d66cf886",
+      "kind": "shaft",
+      "mass_kg": 0.14963366539140016,
+      "material": "steel-reference",
+      "name": "Intake pushrod 5",
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 19061.613425656076
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -245.0,
+          120.0,
+          558.2
+        ],
+        "min": [
+          -261.0,
+          -26.0,
+          522.2
+        ]
+      },
+      "catalog_part_no": "VG14050048",
+      "center_mm": [
+        -252.99999999999798,
+        45.222202471149885,
+        540.0005350215623
+      ],
+      "id": "266a5f72c001444f9b961d004e79cb5c",
+      "kind": "rocker_arm",
+      "mass_kg": 0.3330508919098547,
+      "material": "steel-reference",
+      "name": "Intake rocker 5",
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 42426.86521144647
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -175.0,
+          8.0,
+          527.9
+        ],
+        "min": [
+          -219.0,
+          -36.0,
+          366.2
+        ]
+      },
+      "catalog_part_no": "VG1560050041",
+      "center_mm": [
+        -197.0,
+        -13.999999999999998,
+        413.32839429938286
+      ],
+      "id": "769b457e1408418992205db3885d4f13",
+      "kind": "valve",
+      "mass_kg": 0.17754502177626583,
+      "material": "steel-reference",
+      "name": "Exhaust valve 5",
+      "revision_id": "cce6385b6877478ab533a6fbfbb9d89d",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 22617.20022627588
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -183.0,
+          129.0,
+          278.1
+        ],
+        "min": [
+          -211.0,
+          101.0,
+          228.1
+        ]
+      },
+      "catalog_part_no": "VG1500050032",
+      "center_mm": [
+        -197.0,
+        115.0,
+        252.76896551724138
+      ],
+      "id": "20b6eff62c834111904e601ae18e6f15",
+      "kind": "tappet",
+      "mass_kg": 0.23839452252990553,
+      "material": "steel-reference",
+      "name": "Exhaust tappet 5",
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30368.72898470134
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -192.0,
+          120.0,
+          519.0
+        ],
+        "min": [
+          -202.0,
+          110.0,
+          276.3
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -197.0,
+        115.0,
+        397.65000000000003
+      ],
+      "id": "0411590683074b8b91f1fbc945da44dc",
+      "kind": "shaft",
+      "mass_kg": 0.14963366539140016,
+      "material": "steel-reference",
+      "name": "Exhaust pushrod 5",
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 19061.613425656076
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -189.0,
+          120.0,
+          558.2
+        ],
+        "min": [
+          -205.0,
+          -26.0,
+          522.2
+        ]
+      },
+      "catalog_part_no": "VG14050049",
+      "center_mm": [
+        -196.99999999999795,
+        45.22220247114988,
+        540.0005350215623
+      ],
+      "id": "7d1248caef964f6fb5c84229ff39d4aa",
+      "kind": "rocker_arm",
+      "mass_kg": 0.3330508919098547,
+      "material": "steel-reference",
+      "name": "Exhaust rocker 5",
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 42426.86521144647
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -305.0,
+          70.0,
+          364.0
+        ],
+        "min": [
+          -445.0,
+          -70.0,
+          124.0
+        ]
+      },
+      "catalog_part_no": "VG1540010006",
+      "center_mm": [
+        -374.99999999999994,
+        6.305786562977458e-14,
+        251.23545579477786
+      ],
+      "id": "f5d540c5f41548bea24b7415d176e2ac",
+      "kind": "cylinder_liner",
+      "mass_kg": 1.4813489007618863,
+      "material": "cast-iron-reference",
+      "name": "Cylinder liner 6",
+      "revision_id": "2438a53c411042c4a78edf2c27c78552",
+      "subsystem": "engine_block",
+      "visible": true,
+      "volume_mm3": 205742.90288359486
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -353.0,
+          34.00000049966568,
+          243.13153739941632
+        ],
+        "min": [
+          -397.0,
+          -127.0,
+          -62.00000000000001
+        ]
+      },
+      "catalog_part_no": "61500030009GFT",
+      "center_mm": [
+        -375.0,
+        -46.71583794725285,
+        58.827613705977406
+      ],
+      "id": "3467fa91471d4b97a7e75f728898d2ce",
+      "kind": "connecting_rod",
+      "mass_kg": 3.5860255896537057,
+      "material": "steel-reference",
+      "name": "Connecting rod 6",
+      "revision_id": "be9d84d5e8d04b858f9f30769b89d2ee",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 456818.5464527017
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -355.0,
+          -21.5,
+          43.50000000000001
+        ],
+        "min": [
+          -395.0,
+          -108.5,
+          -43.5
+        ]
+      },
+      "catalog_part_no": "VG1560037033",
+      "center_mm": [
+        -374.99999999999983,
+        -65.00000000000004,
+        -2.683316079661644e-13
+      ],
+      "id": "d32104c637e24c44a7f0e5caa907d559",
+      "kind": "shaft",
+      "mass_kg": 0.20434274216178203,
+      "material": "steel-reference",
+      "name": "Rod bearing 6",
+      "revision_id": "e4582cc572e54bef89e6709cef67ec99",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 26030.922568379872
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -312.09999989999994,
+          62.9000001,
+          289.13149999999996
+        ],
+        "min": [
+          -437.9000001,
+          -62.9000001,
+          149.1314999
+        ]
+      },
+      "catalog_part_no": "VG1560037011A",
+      "center_mm": [
+        -374.9800346083793,
+        0.0608697977239722,
+        234.48837670054365
+      ],
+      "id": "651f29db4584475eaa184fd5d6edb594",
+      "kind": "piston",
+      "mass_kg": 2.2240496789472375,
+      "material": "aluminum-casting-reference",
+      "name": "Piston 6",
+      "revision_id": "33bcc4d33b4341c78e858819cdd2f01f",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 829869.283189268
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -323.0,
+          26.0,
+          235.1315
+        ],
+        "min": [
+          -427.0,
+          -26.0,
+          183.1315
+        ]
+      },
+      "catalog_part_no": "VG1560030013",
+      "center_mm": [
+        -374.99999999999994,
+        -3.502547339977669e-16,
+        209.1315
+      ],
+      "id": "65915182ce1b4d96b744408b534cf45f",
+      "kind": "shaft",
+      "mass_kg": 1.2835202195514002,
+      "material": "steel-reference",
+      "name": "Piston pin 6",
+      "revision_id": "6a31230e0e2444f68a6cb4f178e4c476",
+      "subsystem": "crank_train",
+      "visible": true,
+      "volume_mm3": 163505.7604524075
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -302.0,
+          132.0,
+          365.2
+        ],
+        "min": [
+          -448.0,
+          -115.0,
+          364.0
+        ]
+      },
+      "catalog_part_no": "VG1500040065",
+      "center_mm": [
+        -375.0,
+        11.935238880858844,
+        364.59999999999985
+      ],
+      "id": "2ff5eac4437844a3a51b336119fe3e96",
+      "kind": "head_gasket",
+      "mass_kg": 0.20614720797797007,
+      "material": "steel-reference",
+      "name": "Head gasket 6",
+      "revision_id": "a7bdddcd849241b2bafe9cbf0244d0cb",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 26260.790825218763
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -302.0,
+          132.0,
+          485.2000001
+        ],
+        "min": [
+          -448.0,
+          -115.0000001,
+          365.19999989999997
+        ]
+      },
+      "catalog_part_no": "161560040058FT",
+      "center_mm": [
+        -374.416037318739,
+        13.290700382502845,
+        426.66194036575456
+      ],
+      "id": "33a037c4d480461ca017daea594f3d25",
+      "kind": "cylinder_head",
+      "mass_kg": 26.67620147338612,
+      "material": "cast-iron-reference",
+      "name": "Cylinder head 6",
+      "revision_id": "b452908ebeb3471b815b0970bef797b0",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 3705027.9824147383
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -329.0,
+          128.0,
+          570.2
+        ],
+        "min": [
+          -421.0,
+          -110.0,
+          485.2
+        ]
+      },
+      "catalog_part_no": "VG14040065A",
+      "center_mm": [
+        -375.0000000000002,
+        9.000000000000016,
+        538.2652173913051
+      ],
+      "id": "b098762e52d446bbb3def0a320cac6ea",
+      "kind": "valve_cover",
+      "mass_kg": 0.7998480000000002,
+      "material": "al6061-t6",
+      "name": "Valve cover 6",
+      "revision_id": "02ea14ea40a14eb387797520c64ba56e",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 296240.0
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -362.5,
+          28.5,
+          535.2
+        ],
+        "min": [
+          -387.5,
+          3.5,
+          365.7
+        ]
+      },
+      "catalog_part_no": "VG1560080276",
+      "center_mm": [
+        -374.99999999999994,
+        15.999999999999996,
+        467.06869441444036
+      ],
+      "id": "1d46444269ca4cc39478aa22d1283b0a",
+      "kind": "shaft",
+      "mass_kg": 0.519992092405293,
+      "material": "steel-reference",
+      "name": "Injector 6",
+      "revision_id": "5ffc24e604a54638a3c2a0536d1c8be1",
+      "subsystem": "fuel_system",
+      "visible": true,
+      "volume_mm3": 66241.03087965517
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -360.0,
+          71.0,
+          556.2
+        ],
+        "min": [
+          -390.0,
+          39.0,
+          485.2
+        ]
+      },
+      "catalog_part_no": "VG14050119",
+      "center_mm": [
+        -375.00000000000006,
+        55.0,
+        516.7389146407173
+      ],
+      "id": "c33c65bccd39471baaf03952d5d299d2",
+      "kind": "rocker_pedestal",
+      "mass_kg": 0.4078951955312513,
+      "material": "cast-iron-reference",
+      "name": "Rocker pedestal 6",
+      "revision_id": "068ce5b352a24c159872c459de6f6983",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 56652.11049045167
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -335.0,
+          66.0,
+          551.2
+        ],
+        "min": [
+          -415.0,
+          44.0,
+          529.2
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -374.99999999999994,
+        54.99999999999999,
+        540.2
+      ],
+      "id": "e9c2bcbe7daa4b96b007e4745c422bea",
+      "kind": "shaft",
+      "mass_kg": 0.23872334256098127,
+      "material": "steel-reference",
+      "name": "Rocker shaft 6",
+      "revision_id": "177beb762cd14a299c387a5d9068351c",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30410.616886749216
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -424.99999999999994,
+          -49.29829407782822,
+          497.2
+        ],
+        "min": [
+          -447.00000000000006,
+          -74.70170592217178,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        -436.0000000000001,
+        -62.00000000000001,
+        401.35525812844344
+      ],
+      "id": "d4b6d28f55c646a3b83eb8d568dfb3e1",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 6.1",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -302.99999999999994,
+          -49.29829407782822,
+          497.2
+        ],
+        "min": [
+          -325.00000000000006,
+          -74.70170592217178,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        -314.00000000000006,
+        -62.00000000000001,
+        401.35525812844344
+      ],
+      "id": "e58e140b492f4314a2c05e769d764169",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 6.2",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.9165286276
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -424.99999999999994,
+          72.70170592217178,
+          497.2
+        ],
+        "min": [
+          -447.00000000000006,
+          47.29829407782822,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        -436.0,
+        60.0,
+        401.3552581284434
+      ],
+      "id": "15c96ea361d64ee3986065396b425182",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 6.3",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.916528627604
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -302.99999999999994,
+          72.70170592217178,
+          497.2
+        ],
+        "min": [
+          -325.00000000000006,
+          47.29829407782822,
+          294.0
+        ]
+      },
+      "catalog_part_no": "VG1500040023",
+      "center_mm": [
+        -314.0,
+        60.0,
+        401.3552581284434
+      ],
+      "id": "4fa6680a48ca4848b2155b597ef75be4",
+      "kind": "fastener",
+      "mass_kg": 0.3412623947497266,
+      "material": "steel-reference",
+      "name": "Head bolt 6.4",
+      "revision_id": "e8e3481542ea47a885bdabdd4786c1ae",
+      "subsystem": "cylinder_head",
+      "visible": true,
+      "volume_mm3": 43472.916528627604
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -378.0,
+          11.0,
+          518.2727
+        ],
+        "min": [
+          -428.0,
+          -39.0,
+          356.5727
+        ]
+      },
+      "catalog_part_no": "VG1560051001",
+      "center_mm": [
+        -403.0,
+        -13.999999999999998,
+        397.16260097785687
+      ],
+      "id": "3db8ebb6c9124d5ca75bef1efef54fad",
+      "kind": "valve",
+      "mass_kg": 0.2105303440767774,
+      "material": "steel-reference",
+      "name": "Intake valve 6",
+      "revision_id": "2d74fd663022491587002f4b55c321a9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 26819.152111691365
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -389.0,
+          129.0,
+          286.8989
+        ],
+        "min": [
+          -417.0,
+          101.0,
+          236.8989
+        ]
+      },
+      "catalog_part_no": "VG1500050032",
+      "center_mm": [
+        -403.0,
+        115.0,
+        261.56786551724144
+      ],
+      "id": "07d2eb0e25374bd4902d9e6f4d206e9f",
+      "kind": "tappet",
+      "mass_kg": 0.23839452252990553,
+      "material": "steel-reference",
+      "name": "Intake tappet 6",
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30368.728984701345
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -398.0,
+          120.0,
+          527.7989
+        ],
+        "min": [
+          -408.0,
+          110.0,
+          285.0989
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -403.00000000000006,
+        115.00000000000001,
+        406.44890000000004
+      ],
+      "id": "c22ddf5f512446098928421dd41b4d70",
+      "kind": "shaft",
+      "mass_kg": 0.14963366539140016,
+      "material": "steel-reference",
+      "name": "Intake pushrod 6",
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 19061.61342565607
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -395.0,
+          121.62572761200272,
+          558.2
+        ],
+        "min": [
+          -411.0,
+          -25.282120929778785,
+          518.2726659504647
+        ]
+      },
+      "catalog_part_no": "VG14050048",
+      "center_mm": [
+        -402.99999999999795,
+        45.352629017105784,
+        538.5958354475861
+      ],
+      "id": "ca7f885a333e4fb3a79593c6824d4b6e",
+      "kind": "rocker_arm",
+      "mass_kg": 0.3330508919098547,
+      "material": "steel-reference",
+      "name": "Intake rocker 6",
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 42426.8652114464
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -325.0,
+          8.0,
+          527.9
+        ],
+        "min": [
+          -369.0,
+          -36.0,
+          366.2
+        ]
+      },
+      "catalog_part_no": "VG1560050041",
+      "center_mm": [
+        -347.0,
+        -13.999999999999998,
+        413.32839429938286
+      ],
+      "id": "630d294cbcbb42da8d3c02fb0ae10b1e",
+      "kind": "valve",
+      "mass_kg": 0.17754502177626583,
+      "material": "steel-reference",
+      "name": "Exhaust valve 6",
+      "revision_id": "cce6385b6877478ab533a6fbfbb9d89d",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 22617.20022627588
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -333.0,
+          129.0,
+          278.1
+        ],
+        "min": [
+          -361.0,
+          101.0,
+          228.1
+        ]
+      },
+      "catalog_part_no": "VG1500050032",
+      "center_mm": [
+        -347.00000000000006,
+        115.0,
+        252.76896551724138
+      ],
+      "id": "4f4c9594a2f94f3eac91ae682f80ec8c",
+      "kind": "tappet",
+      "mass_kg": 0.23839452252990553,
+      "material": "steel-reference",
+      "name": "Exhaust tappet 6",
+      "revision_id": "686f883839f84cefa9d7f1ac0f97abb4",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 30368.728984701345
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -342.0,
+          120.0,
+          519.0
+        ],
+        "min": [
+          -352.0,
+          110.0,
+          276.3
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -347.0,
+        115.0,
+        397.65
+      ],
+      "id": "e5290d4fcb3b40e7a7e5347adb1aa4b5",
+      "kind": "shaft",
+      "mass_kg": 0.14963366539140016,
+      "material": "steel-reference",
+      "name": "Exhaust pushrod 6",
+      "revision_id": "704034377c0b455db31f2dfd671325e9",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 19061.61342565607
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -339.0,
+          120.0,
+          558.2
+        ],
+        "min": [
+          -355.0,
+          -26.0,
+          522.2
+        ]
+      },
+      "catalog_part_no": "VG14050049",
+      "center_mm": [
+        -346.99999999999795,
+        45.22220247114988,
+        540.0005350215623
+      ],
+      "id": "267f5f2fff8945749e9dd471ec887277",
+      "kind": "rocker_arm",
+      "mass_kg": 0.3330508919098547,
+      "material": "steel-reference",
+      "name": "Exhaust rocker 6",
+      "revision_id": "ac58512eff5b43bbbb36765f7b623b62",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 42426.86521144647
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          485.0,
+          155.0,
+          240.0
+        ],
+        "min": [
+          -521.0,
+          75.0,
+          160.0
+        ]
+      },
+      "catalog_part_no": "VG1500050097A",
+      "center_mm": [
+        -13.257905114306212,
+        114.99859787148382,
+        200.00304535402591
+      ],
+      "id": "1cbe1c1e79fc473d90a9e3dc0f32b88c",
+      "kind": "camshaft",
+      "mass_kg": 21.840071234789168,
+      "material": "steel-reference",
+      "name": "Camshaft",
+      "revision_id": "ca0dc1ec1cc24e0dbf93498ab7d5e3d6",
+      "subsystem": "valvetrain",
+      "visible": true,
+      "volume_mm3": 2782174.6795909773
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -501.0,
+          75.98611677819156,
+          75.98611677819156
+        ],
+        "min": [
+          -521.0000000000001,
+          -75.98611677819156,
+          -75.98611677819156
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -511.0000000000014,
+        -1.535727207265439e-14,
+        -1.3925639413353075e-14
+      ],
+      "id": "155567ddcd684f2bb4f206f3a7c592be",
+      "kind": "spur_gear",
+      "mass_kg": 0.7430199332810364,
+      "material": "steel-reference",
+      "name": "Crankshaft gear",
+      "revision_id": "d21f0d4254e142faadfaf8fe481b1756",
+      "subsystem": "timing_gears",
+      "visible": true,
+      "volume_mm3": 94652.22080013188
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -501.0,
+          171.72616351612524,
+          60.05536351612524
+        ],
+        "min": [
+          -544.0000000000001,
+          67.73203648387477,
+          -43.93876351612525
+        ]
+      },
+      "catalog_part_no": "VG1560050053",
+      "center_mm": [
+        -522.5000000000006,
+        119.72909999999989,
+        8.05830000000002
+      ],
+      "id": "74253eee2be5419abeb83f0f5a342b0a",
+      "kind": "spur_gear",
+      "mass_kg": 1.9640895276146515,
+      "material": "steel-reference",
+      "name": "Idler gear",
+      "revision_id": "84939fd92dd2467592bbd1466da03498",
+      "subsystem": "timing_gears",
+      "visible": true,
+      "volume_mm3": 250202.48759422323
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -500.0,
+          139.6291,
+          27.9583
+        ],
+        "min": [
+          -545.0,
+          99.82910000000001,
+          -11.8417
+        ]
+      },
+      "catalog_part_no": "VG1540059031",
+      "center_mm": [
+        -522.5,
+        119.7291,
+        8.058300000000001
+      ],
+      "id": "96237c5a90c748b5bc53964fcd024052",
+      "kind": "shaft",
+      "mass_kg": 0.43947906920876423,
+      "material": "steel-reference",
+      "name": "Idler axle",
+      "revision_id": "c0507855c37247c885a3f3a1d64d2414",
+      "subsystem": "timing_gears",
+      "visible": true,
+      "volume_mm3": 55984.59480366424
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -501.0,
+          262.9879344708563,
+          347.9879344708563
+        ],
+        "min": [
+          -521.0,
+          -32.98793447085629,
+          52.01206552914371
+        ]
+      },
+      "catalog_part_no": "VG14050053",
+      "center_mm": [
+        -511.00000000000006,
+        114.99999999999969,
+        200.0000000000001
+      ],
+      "id": "6d0e74c6a61f4459bdbce9defbd8592d",
+      "kind": "spur_gear",
+      "mass_kg": 5.541145947787659,
+      "material": "steel-reference",
+      "name": "Camshaft gear",
+      "revision_id": "583ca61ba9fc4f6095b21a5415e3c76a",
+      "subsystem": "timing_gears",
+      "visible": true,
+      "volume_mm3": 705878.4646863254
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -524.0,
+          430.5543362028609,
+          257.8026362028609
+        ],
+        "min": [
+          -544.0,
+          134.55446379713908,
+          -38.197236202860914
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -533.9999999999985,
+        282.5544000000005,
+        109.80270000000013
+      ],
+      "id": "7f9da48157ff4fbea67d067c45de6748",
+      "kind": "spur_gear",
+      "mass_kg": 5.515547308368414,
+      "material": "steel-reference",
+      "name": "Injection pump gear",
+      "revision_id": "07aaf997a4774f9792c311c460626e08",
+      "subsystem": "timing_gears",
+      "visible": true,
+      "volume_mm3": 702617.4915118982
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -490.0,
+          446.554364603,
+          363.908416452
+        ],
+        "min": [
+          -555.0,
+          -91.794552833,
+          -91.948623863
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -522.4999999999989,
+        172.93671190846516,
+        128.40974864969618
+      ],
+      "id": "973f3c0c76c84c1cb13e7f41ec0258ef",
+      "kind": "timing_case",
+      "mass_kg": 10.683263333050188,
+      "material": "al6061-t6",
+      "name": "Timing gear case",
+      "revision_id": "11caad25ef9b495c9a3be8b0bc0db832",
+      "subsystem": "timing_gears",
+      "visible": true,
+      "volume_mm3": 3956764.1974260006
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -465.0,
+          300.0544,
+          127.30270000000002
+        ],
+        "min": [
+          -544.0,
+          265.0544,
+          92.3027
+        ]
+      },
+      "catalog_part_no": "VG1560080300",
+      "center_mm": [
+        -504.5,
+        282.5544,
+        109.80270000000002
+      ],
+      "id": "09e9811af1684666a8f1ba2ac705a122",
+      "kind": "shaft",
+      "mass_kg": 0.5966542220128861,
+      "material": "steel-reference",
+      "name": "Injection pump drive shaft",
+      "revision_id": "2d663bdb0ace41a8bcaef7d1f133fb3b",
+      "subsystem": "fuel_system",
+      "visible": true,
+      "volume_mm3": 76006.90726278805
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          30.0,
+          342.5544,
+          212.80270000000002
+        ],
+        "min": [
+          -465.0,
+          222.5544,
+          49.8027
+        ]
+      },
+      "catalog_part_no": "VG1560080022",
+      "center_mm": [
+        -223.84537467641434,
+        282.5543999999998,
+        123.83278568075114
+      ],
+      "id": "cc10f77d24d14c2c96a1512e3a871ad9",
+      "kind": "injection_pump",
+      "mass_kg": 14.150146309317906,
+      "material": "al6061-t6",
+      "name": "Injection pump",
+      "revision_id": "301c1468d273450082c4396e11259f33",
+      "subsystem": "fuel_system",
+      "visible": true,
+      "volume_mm3": 5240794.929377002
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -283.0,
+          297.0,
+          450.0
+        ],
+        "min": [
+          -377.0,
+          202.99999999999997,
+          270.0
+        ]
+      },
+      "catalog_part_no": "VG1560080012ST",
+      "center_mm": [
+        -329.9999999999994,
+        249.99999999999983,
+        351.5797873839357
+      ],
+      "id": "835c00075bbd4eacae332fa84210bcef",
+      "kind": "canister",
+      "mass_kg": 1.7391618974602139,
+      "material": "steel-reference",
+      "name": "Fuel filter 1",
+      "revision_id": "c28bd8ed1d7e47949edae5c9aef4ebaa",
+      "subsystem": "fuel_system",
+      "visible": true,
+      "volume_mm3": 221549.28630066448
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -163.0,
+          297.0,
+          450.0
+        ],
+        "min": [
+          -257.0,
+          202.99999999999997,
+          270.0
+        ]
+      },
+      "catalog_part_no": "VG1560080012ST",
+      "center_mm": [
+        -210.0,
+        249.99999999999983,
+        351.5797873839357
+      ],
+      "id": "f68a6cf6b65144ef9eb3128fe7208493",
+      "kind": "canister",
+      "mass_kg": 1.7391618974602139,
+      "material": "steel-reference",
+      "name": "Fuel filter 2",
+      "revision_id": "c28bd8ed1d7e47949edae5c9aef4ebaa",
+      "subsystem": "fuel_system",
+      "visible": true,
+      "volume_mm3": 221549.28630066448
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          467.0,
+          -114.9999999,
+          465.2
+        ],
+        "min": [
+          -411.0,
+          -285.0000001,
+          355.2
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        21.244927643321045,
+        -201.6202812625083,
+        410.7865803787547
+      ],
+      "id": "328e8a0f5dbe468fbf870567fa5b6dde",
+      "kind": "exhaust_manifold",
+      "mass_kg": 10.108687235635415,
+      "material": "cast-iron-reference",
+      "name": "Exhaust manifold",
+      "revision_id": "649fdae4ee03413f8046cc8efdad350e",
+      "subsystem": "air_exhaust",
+      "visible": true,
+      "volume_mm3": 1403984.338282694
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          507.0000001,
+          -111.9999999,
+          553.2000001
+        ],
+        "min": [
+          -479.0,
+          -188.0000001,
+          410.2
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        -4.2398616281646815,
+        -146.64203348377765,
+        499.77209859903064
+      ],
+      "id": "b009a6fc112a45dab9fe6df63ffd3dad",
+      "kind": "intake_manifold",
+      "mass_kg": 3.1557745129885713,
+      "material": "al6061-t6",
+      "name": "Intake manifold",
+      "revision_id": "c0437434c167499c8179e70ac1bd91e5",
+      "subsystem": "air_exhaust",
+      "visible": true,
+      "volume_mm3": 1168805.375180954
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          260.0,
+          -285.5,
+          560.2000001
+        ],
+        "min": [
+          -170.0,
+          -560.5000001,
+          285.19999989999997
+        ]
+      },
+      "catalog_part_no": "VG1029110055",
+      "center_mm": [
+        39.1965853112737,
+        -432.68015501446064,
+        411.99023913074274
+      ],
+      "id": "2be29a62e9124e8fab23624e50f41523",
+      "kind": "turbocharger",
+      "mass_kg": 40.498620301378544,
+      "material": "cast-iron-reference",
+      "name": "Turbocharger",
+      "revision_id": "f442eb2427964422b65bc4ac65582873",
+      "subsystem": "air_exhaust",
+      "visible": true,
+      "volume_mm3": 5624808.375191469
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          650.0,
+          80.0,
+          375.0
+        ],
+        "min": [
+          490.0,
+          -80.0,
+          225.0
+        ]
+      },
+      "catalog_part_no": "VG1062060351",
+      "center_mm": [
+        547.8099298952511,
+        5.14744215290771e-15,
+        300.00000000000006
+      ],
+      "id": "23541d71ed3b4f89bdc86963c7158198",
+      "kind": "housing",
+      "mass_kg": 2.409709513340088,
+      "material": "al6061-t6",
+      "name": "Coolant pump",
+      "revision_id": "93877bb85fde44ca80668705a329474a",
+      "subsystem": "cooling",
+      "visible": true,
+      "volume_mm3": 892485.0049407734
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          686.0,
+          75.0,
+          375.0
+        ],
+        "min": [
+          650.0,
+          -75.0,
+          225.0
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        667.9999999999999,
+        6.754925276571306e-15,
+        299.99999999999983
+      ],
+      "id": "69f625eecec848fcbcdb6d73ffb2d863",
+      "kind": "pulley",
+      "mass_kg": 4.698622866951852,
+      "material": "steel-reference",
+      "name": "Coolant pump pulley",
+      "revision_id": "1578ce32afd041cb92bd9a5a694f9dc2",
+      "subsystem": "cooling",
+      "visible": true,
+      "volume_mm3": 598550.683688134
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          775.0000001,
+          278.9307882357716,
+          600.0000001
+        ],
+        "min": [
+          704.9999999,
+          -278.9307882357716,
+          -1.0000000122131237e-07
+        ]
+      },
+      "catalog_part_no": null,
+      "center_mm": [
+        740.648446862976,
+        -2.1848568559937537e-15,
+        300.0000000000003
+      ],
+      "id": "3669a58cdc474f9bbc3d6279b45b5e1e",
+      "kind": "propeller",
+      "mass_kg": 2.0460600637935262,
+      "material": "polymer-reference",
+      "name": "Cooling fan",
+      "revision_id": "fa7ad6adf04a4ca09e7bffb2f82a691f",
+      "subsystem": "cooling",
+      "visible": true,
+      "volume_mm3": 1705050.0531612698
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          420.0,
+          55.0,
+          -150.0
+        ],
+        "min": [
+          240.0,
+          -55.0,
+          -220.0
+        ]
+      },
+      "catalog_part_no": "VG1500070048",
+      "center_mm": [
+        303.9496995543402,
+        3.224623010919874e-16,
+        -185.4388555060378
+      ],
+      "id": "36b67f54c9d74f41ac4aba33f6f97910",
+      "kind": "housing",
+      "mass_kg": 6.958162805928928,
+      "material": "cast-iron-reference",
+      "name": "Oil pump",
+      "revision_id": "54755259886c4f298ce22f834ff2dd72",
+      "subsystem": "lubrication",
+      "visible": true,
+      "volume_mm3": 966411.5008234621
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          210.0,
+          -105.0,
+          260.0
+        ],
+        "min": [
+          -310.0,
+          -145.0,
+          140.0
+        ]
+      },
+      "catalog_part_no": "VG1540010014B",
+      "center_mm": [
+        -50.00000000000001,
+        -125.0,
+        200.00000000000003
+      ],
+      "id": "1fea4da3693d4d4b80a90e86813b57d3",
+      "kind": "housing",
+      "mass_kg": 6.7392,
+      "material": "al6061-t6",
+      "name": "Oil cooler",
+      "revision_id": "617fde14a5a64e4ea4c3c12b13578518",
+      "subsystem": "lubrication",
+      "visible": true,
+      "volume_mm3": 2496000.0
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          204.0,
+          -161.0,
+          40.00000000000001
+        ],
+        "min": [
+          96.0,
+          -269.0,
+          -170.0
+        ]
+      },
+      "catalog_part_no": "VG61000070005ST",
+      "center_mm": [
+        150.00000000000014,
+        -215.0000000000003,
+        -77.86534925171168
+      ],
+      "id": "26b2e5875c5f4ca388299906f2d052fd",
+      "kind": "canister",
+      "mass_kg": 2.4186636681655838,
+      "material": "steel-reference",
+      "name": "Oil filter 1",
+      "revision_id": "90edb0f30af849efb11a123e7b6c11d1",
+      "subsystem": "lubrication",
+      "visible": true,
+      "volume_mm3": 308110.02142236714
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          334.0,
+          -161.0,
+          40.00000000000001
+        ],
+        "min": [
+          226.0,
+          -269.0,
+          -170.0
+        ]
+      },
+      "catalog_part_no": "VG61000070005ST",
+      "center_mm": [
+        280.00000000000074,
+        -215.0000000000004,
+        -77.8653492517116
+      ],
+      "id": "0880577199704372af4b3cac6549a7ec",
+      "kind": "canister",
+      "mass_kg": 2.4186636681655838,
+      "material": "steel-reference",
+      "name": "Oil filter 2",
+      "revision_id": "90edb0f30af849efb11a123e7b6c11d1",
+      "subsystem": "lubrication",
+      "visible": true,
+      "volume_mm3": 308110.021422367
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          695.0,
+          -119.0,
+          275.0
+        ],
+        "min": [
+          495.0,
+          -281.0,
+          125.0
+        ]
+      },
+      "catalog_part_no": "VG1095094002ST",
+      "center_mm": [
+        592.9005673242995,
+        -199.99999999999977,
+        199.999999999999
+      ],
+      "id": "25712e91952f4e1da78af553d37ba7e0",
+      "kind": "housing",
+      "mass_kg": 2.6319231014822324,
+      "material": "al6061-t6",
+      "name": "Alternator",
+      "revision_id": "100f069e96e14a2589d6106d6f0433bb",
+      "subsystem": "electrical",
+      "visible": true,
+      "volume_mm3": 974786.3338823094
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          -265.0,
+          -155.6607,
+          -66.625
+        ],
+        "min": [
+          -555.0,
+          -265.6607,
+          -176.625
+        ]
+      },
+      "catalog_part_no": "VG1560090001",
+      "center_mm": [
+        -414.62328810711347,
+        -210.6607000000001,
+        -121.62500000000007
+      ],
+      "id": "556144f3afa54d41a06c5425f7296288",
+      "kind": "housing",
+      "mass_kg": 6.461435968700249,
+      "material": "steel-reference",
+      "name": "Starter motor",
+      "revision_id": "a5b258b5f23341249b75a09b4d1ae709",
+      "subsystem": "electrical",
+      "visible": true,
+      "volume_mm3": 823112.8622548089
+    },
+    {
+      "bbox_mm": {
+        "max": [
+          510.0,
+          290.0,
+          395.0
+        ],
+        "min": [
+          290.0,
+          170.0,
+          195.0
+        ]
+      },
+      "catalog_part_no": "VG1093130001",
+      "center_mm": [
+        389.245766586573,
+        230.00000000000006,
+        298.56171652428213
+      ],
+      "id": "9ff5ac28aa85402dbf0eba753d4b4d8d",
+      "kind": "housing",
+      "mass_kg": 4.9449223555013555,
+      "material": "al6061-t6",
+      "name": "Air compressor",
+      "revision_id": "a426bec7ddec48a690505c35a0e9ace6",
+      "subsystem": "accessories",
+      "visible": true,
+      "volume_mm3": 1831452.7242597605
+    }
+  ],
+  "definition_version": 2,
+  "elapsed_seconds": 169.0,
+  "interference_free": true,
+  "interferences": [],
+  "name": "WD615 engine \u00b7 90\u00b0 crank",
+  "scope": "Rigid placement of exact single solids. No joints, tolerances, fasteners, compliance or kinematics.",
+  "step_round_trip_volume_mm3": 151811992.5849317,
+  "subsystems": {
+    "accessories": {
+      "count": 1,
+      "label": "Accessories",
+      "mass_kg": 4.9449223555013555
+    },
+    "air_exhaust": {
+      "count": 3,
+      "label": "Air & exhaust",
+      "mass_kg": 53.76308205000253
+    },
+    "airframe": {
+      "count": 0,
+      "label": "Airframe",
+      "mass_kg": 0
+    },
+    "body": {
+      "count": 0,
+      "label": "Body",
+      "mass_kg": 0
+    },
+    "chassis": {
+      "count": 0,
+      "label": "Chassis",
+      "mass_kg": 0
+    },
+    "cooling": {
+      "count": 3,
+      "label": "Cooling",
+      "mass_kg": 9.154392444085467
+    },
+    "crank_train": {
+      "count": 28,
+      "label": "Crank train",
+      "mass_kg": 239.1425104716145
+    },
+    "cylinder_head": {
+      "count": 42,
+      "label": "Cylinder heads",
+      "mass_kg": 174.28347756217798
+    },
+    "electrical": {
+      "count": 2,
+      "label": "Electrical",
+      "mass_kg": 9.093359070182482
+    },
+    "empennage": {
+      "count": 0,
+      "label": "Empennage",
+      "mass_kg": 0
+    },
+    "engine_block": {
+      "count": 37,
+      "label": "Engine block",
+      "mass_kg": 407.43237127875574
+    },
+    "fuel_system": {
+      "count": 10,
+      "label": "Fuel system",
+      "mass_kg": 21.345076880682978
+    },
+    "interior": {
+      "count": 0,
+      "label": "Interior",
+      "mass_kg": 0
+    },
+    "landing_gear": {
+      "count": 0,
+      "label": "Landing gear",
+      "mass_kg": 0
+    },
+    "lubrication": {
+      "count": 4,
+      "label": "Lubrication",
+      "mass_kg": 18.534690142260096
+    },
+    "other": {
+      "count": 0,
+      "label": "Other",
+      "mass_kg": 0
+    },
+    "powertrain": {
+      "count": 0,
+      "label": "Powertrain",
+      "mass_kg": 0
+    },
+    "propulsion": {
+      "count": 0,
+      "label": "Propulsion",
+      "mass_kg": 0
+    },
+    "timing_gears": {
+      "count": 6,
+      "label": "Timing gears",
+      "mass_kg": 24.886545119310714
+    },
+    "valvetrain": {
+      "count": 61,
+      "label": "Valvetrain",
+      "mass_kg": 36.70118361643475
+    },
+    "wheels_tires": {
+      "count": 0,
+      "label": "Wheels & Tires",
+      "mass_kg": 0
+    }
+  },
+  "total_mass_kg": 999.2816109910085,
+  "weight_distribution": null
+}
